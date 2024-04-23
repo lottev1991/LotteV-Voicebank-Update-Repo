@@ -1,4 +1,4 @@
-# Hoshino Hanami Update Repo
+# Lotte V Voicebank Update Repo
 
 This repo is for updates, beta releases, etc. These files are released under a multi-license model.
 
