@@ -1,0 +1,1685 @@
+symbols: 
+- {symbol: SP, type: vowel}
+- {symbol: AP, type: vowel}
+- {symbol: N, type: vowel}
+- {symbol: a, type: vowel}
+- {symbol: aa, type: vowel}
+- {symbol: ae, type: vowel}
+- {symbol: ah, type: vowel}
+- {symbol: ao, type: vowel}
+- {symbol: aw, type: vowel}
+- {symbol: ay, type: vowel}
+- {symbol: e, type: vowel}
+- {symbol: eh, type: vowel}
+- {symbol: er, type: vowel}
+- {symbol: ey, type: vowel}
+- {symbol: i, type: vowel}
+- {symbol: ih, type: vowel}
+- {symbol: iy, type: vowel}
+- {symbol: o, type: vowel}
+- {symbol: ow, type: vowel}
+- {symbol: oy, type: vowel}
+- {symbol: u, type: vowel}
+- {symbol: uh, type: vowel}
+- {symbol: uw, type: vowel}
+- {symbol: A, type: vowel}
+- {symbol: E, type: vowel}
+- {symbol: I, type: vowel}
+- {symbol: O, type: vowel}
+- {symbol: U, type: vowel}
+- {symbol: b, type: stop}
+- {symbol: by, type: stop}
+- {symbol: ch, type: stop}
+- {symbol: d, type: stop}
+- {symbol: dh, type: stop}
+- {symbol: dy, type: stop}
+- {symbol: f, type: stop}
+- {symbol: fx, type: stop}
+- {symbol: g, type: stop}
+- {symbol: gy, type: stop}
+- {symbol: h, type: stop}
+- {symbol: hh, type: stop}
+- {symbol: hy, type: stop}
+- {symbol: j, type: stop}
+- {symbol: jh, type: stop}
+- {symbol: k, type: stop}
+- {symbol: kx, type: stop}
+- {symbol: ky, type: stop}
+- {symbol: l, type: stop}
+- {symbol: m, type: stop}
+- {symbol: my, type: stop}
+- {symbol: n, type: stop}
+- {symbol: ng, type: stop}
+- {symbol: ny, type: stop}
+- {symbol: p, type: stop}
+- {symbol: px, type: stop}
+- {symbol: py, type: stop}
+- {symbol: r, type: stop}
+- {symbol: rx, type: stop}
+- {symbol: ry, type: stop}
+- {symbol: s, type: stop}
+- {symbol: sh, type: stop}
+- {symbol: t, type: stop}
+- {symbol: th, type: stop}
+- {symbol: ts, type: stop}
+- {symbol: tx, type: stop}
+- {symbol: ty, type: stop}
+- {symbol: v, type: stop}
+- {symbol: w, type: stop}
+- {symbol: y, type: stop}
+- {symbol: z, type: stop}
+- {symbol: zh, type: stop}
+entries:
+- {grapheme: "SP", phonemes: [SP]}
+- {grapheme: "AP", phonemes: [AP]}
+- {grapheme: "br", phonemes: [AP]}
+- {grapheme: "R", phonemes: [SP]}
+- {grapheme: "-", phonemes: [SP]}
+- {grapheme: "bre", phonemes: [AP]}
+- {grapheme: "breath", phonemes: [AP]}
+# Hiragana
+- {grapheme: "息", phonemes: [AP]}
+- {grapheme: "っ", phonemes: [SP]}
+- {grapheme: "あ", phonemes: [a]}
+- {grapheme: "い", phonemes: [i]}
+- {grapheme: "う", phonemes: [u]}
+- {grapheme: "え", phonemes: [e]}
+- {grapheme: "お", phonemes: [o]}
+- {grapheme: "か", phonemes: [kx, a]}
+- {grapheme: "き", phonemes: [kx, i]}
+- {grapheme: "く", phonemes: [kx, u]}
+- {grapheme: "け", phonemes: [kx, e]}
+- {grapheme: "こ", phonemes: [kx, o]}
+- {grapheme: "さ", phonemes: [s, a]}
+- {grapheme: "し", phonemes: [sh, i]}
+- {grapheme: "す", phonemes: [s, u]}
+- {grapheme: "せ", phonemes: [s, e]}
+- {grapheme: "そ", phonemes: [s, o]}
+- {grapheme: "た", phonemes: [tx, a]}
+- {grapheme: "ち", phonemes: [ch, i]}
+- {grapheme: "つ", phonemes: [ts, u]}
+- {grapheme: "て", phonemes: [tx, e]}
+- {grapheme: "と", phonemes: [tx, o]}
+- {grapheme: "な", phonemes: [n, a]}
+- {grapheme: "に", phonemes: [n, i]}
+- {grapheme: "ぬ", phonemes: [n, u]}
+- {grapheme: "ね", phonemes: [n, e]}
+- {grapheme: "の", phonemes: [n, o]}
+- {grapheme: "は", phonemes: [h, a]}
+- {grapheme: "ひ", phonemes: [h, i]}
+- {grapheme: "ふ", phonemes: [fx, u]}
+- {grapheme: "へ", phonemes: [h, e]}
+- {grapheme: "ほ", phonemes: [h, o]}
+- {grapheme: "ま", phonemes: [m, a]}
+- {grapheme: "み", phonemes: [m, i]}
+- {grapheme: "む", phonemes: [m, u]}
+- {grapheme: "め", phonemes: [m, e]}
+- {grapheme: "も", phonemes: [m, o]}
+- {grapheme: "や", phonemes: [y, a]}
+- {grapheme: "ゆ", phonemes: [y, u]}
+- {grapheme: "よ", phonemes: [y, o]}
+- {grapheme: "ら", phonemes: [rx, a]}
+- {grapheme: "り", phonemes: [rx, i]}
+- {grapheme: "る", phonemes: [rx, u]}
+- {grapheme: "れ", phonemes: [rx, e]}
+- {grapheme: "ろ", phonemes: [rx, o]}
+- {grapheme: "わ", phonemes: [w, a]}
+- {grapheme: "を", phonemes: [o]}
+- {grapheme: "ん", phonemes: [N]}
+- {grapheme: "が", phonemes: [g, a]}
+- {grapheme: "ぎ", phonemes: [g, i]}
+- {grapheme: "ぐ", phonemes: [g, u]}
+- {grapheme: "げ", phonemes: [g, e]}
+- {grapheme: "ご", phonemes: [g, o]}
+- {grapheme: "ざ", phonemes: [z, a]}
+- {grapheme: "じ", phonemes: [j, i]}
+- {grapheme: "ず", phonemes: [z, u]}
+- {grapheme: "ぜ", phonemes: [z, e]}
+- {grapheme: "ぞ", phonemes: [z, o]}
+- {grapheme: "だ", phonemes: [d, a]}
+- {grapheme: "ぢ", phonemes: [j, i]}
+- {grapheme: "づ", phonemes: [z, u]}
+- {grapheme: "で", phonemes: [d, e]}
+- {grapheme: "ど", phonemes: [d, o]}
+- {grapheme: "ば", phonemes: [b, a]}
+- {grapheme: "び", phonemes: [b, i]}
+- {grapheme: "ぶ", phonemes: [b, u]}
+- {grapheme: "べ", phonemes: [b, e]}
+- {grapheme: "ぼ", phonemes: [b, o]}
+- {grapheme: "ぱ", phonemes: [px, a]}
+- {grapheme: "ぴ", phonemes: [px, i]}
+- {grapheme: "ぷ", phonemes: [px, u]}
+- {grapheme: "ぺ", phonemes: [px, e]}
+- {grapheme: "ぽ", phonemes: [px, o]}
+- {grapheme: "ヴ", phonemes: [v, u]}
+- {grapheme: "か゜", phonemes: [ng, a]}
+- {grapheme: "き゜", phonemes: [ng, i]}
+- {grapheme: "く゜", phonemes: [ng, u]}
+- {grapheme: "け゜", phonemes: [ng, e]}
+- {grapheme: "こ゜", phonemes: [ng, o]}
+- {grapheme: "ら゜", phonemes: [l, a]}
+- {grapheme: "り゜", phonemes: [l, i]}
+- {grapheme: "る゜", phonemes: [l, u]}
+- {grapheme: "れ゜", phonemes: [l, e]}
+- {grapheme: "ろ゜", phonemes: [l, o]}
+- {grapheme: "きゃ", phonemes: [ky, a]}
+- {grapheme: "きゅ", phonemes: [ky, u]}
+- {grapheme: "きょ", phonemes: [ky, o]}
+- {grapheme: "しゃ", phonemes: [sh, a]}
+- {grapheme: "しゅ", phonemes: [sh, u]}
+- {grapheme: "しょ", phonemes: [sh, o]}
+- {grapheme: "ちゃ", phonemes: [ch, a]}
+- {grapheme: "ちゅ", phonemes: [ch, u]}
+- {grapheme: "ちょ", phonemes: [ch, o]}
+- {grapheme: "にゃ", phonemes: [ny, a]}
+- {grapheme: "にゅ", phonemes: [ny, u]}
+- {grapheme: "にょ", phonemes: [ny, o]}
+- {grapheme: "ひゃ", phonemes: [hy, a]}
+- {grapheme: "ひゅ", phonemes: [hy, u]}
+- {grapheme: "ひょ", phonemes: [hy, o]}
+- {grapheme: "みゃ", phonemes: [my, a]}
+- {grapheme: "みゅ", phonemes: [my, u]}
+- {grapheme: "みょ", phonemes: [my, o]}
+- {grapheme: "りゃ", phonemes: [ry, a]}
+- {grapheme: "りゅ", phonemes: [ry, u]}
+- {grapheme: "りょ", phonemes: [ry, o]}
+- {grapheme: "ぎゃ", phonemes: [gy, a]}
+- {grapheme: "ぎゅ", phonemes: [gy, u]}
+- {grapheme: "ぎょ", phonemes: [gy, o]}
+- {grapheme: "じゃ", phonemes: [j, a]}
+- {grapheme: "じゅ", phonemes: [j, u]}
+- {grapheme: "じょ", phonemes: [j, o]}
+- {grapheme: "ぢゃ", phonemes: [j, a]}
+- {grapheme: "ぢゅ", phonemes: [j, u]}
+- {grapheme: "ぢょ", phonemes: [j, o]}
+- {grapheme: "びゃ", phonemes: [by, a]}
+- {grapheme: "びゅ", phonemes: [by, u]}
+- {grapheme: "びょ", phonemes: [by, o]}
+- {grapheme: "ぴゃ", phonemes: [py, a]}
+- {grapheme: "ぴゅ", phonemes: [py, u]}
+- {grapheme: "ぴょ", phonemes: [py, o]}
+- {grapheme: "いぇ", phonemes: [y, e]}
+- {grapheme: "きぇ", phonemes: [ky, e]}
+- {grapheme: "しぇ", phonemes: [sh, e]}
+- {grapheme: "ちぇ", phonemes: [ch, e]}
+- {grapheme: "にぇ", phonemes: [ny, e]}
+- {grapheme: "ひぇ", phonemes: [hy, e]}
+- {grapheme: "みぇ", phonemes: [my, e]}
+- {grapheme: "りぇ", phonemes: [ry, e]}
+- {grapheme: "ぎぇ", phonemes: [gy, e]}
+- {grapheme: "じぇ", phonemes: [j, e]}
+- {grapheme: "ぢぇ", phonemes: [j, e]}
+- {grapheme: "びぇ", phonemes: [by, e]}
+- {grapheme: "ぴぇ", phonemes: [py, e]}
+- {grapheme: "うぁ", phonemes: [w, a]}
+- {grapheme: "うぃ", phonemes: [w, i]}
+- {grapheme: "うぇ", phonemes: [w, e]}
+- {grapheme: "うぉ", phonemes: [w, o]}
+- {grapheme: "くぁ", phonemes: [kx, w, a]}
+- {grapheme: "くぃ", phonemes: [kx, w, i]}
+- {grapheme: "くぇ", phonemes: [kx, w, e]}
+- {grapheme: "くぉ", phonemes: [kx, w, o]}
+- {grapheme: "すぁ", phonemes: [s, w, a]}
+- {grapheme: "すぃ", phonemes: [s, i]}
+- {grapheme: "すぃ(1)", phonemes: [s, w, i]}
+- {grapheme: "すぇ", phonemes: [s, w, e]}
+- {grapheme: "すぉ", phonemes: [s, w, o]}
+- {grapheme: "つぁ", phonemes: [ts, a]}
+- {grapheme: "つぃ", phonemes: [ts, i]}
+- {grapheme: "つぇ", phonemes: [ts, e]}
+- {grapheme: "つぉ", phonemes: [ts, o]}
+- {grapheme: "ぬぁ", phonemes: [n, w, a]}
+- {grapheme: "ぬぃ", phonemes: [n, w, i]}
+- {grapheme: "ぬぇ", phonemes: [n, w, e]}
+- {grapheme: "ぬぉ", phonemes: [n, w, o]}
+- {grapheme: "ふぁ", phonemes: [fx, a]}
+- {grapheme: "ふぃ", phonemes: [fx, i]}
+- {grapheme: "ふぇ", phonemes: [fx, e]}
+- {grapheme: "ふぉ", phonemes: [fx, o]}
+- {grapheme: "むぁ", phonemes: [m, w, a]}
+- {grapheme: "むぃ", phonemes: [m, w, i]}
+- {grapheme: "むぇ", phonemes: [m, w, e]}
+- {grapheme: "むぉ", phonemes: [m, w, o]}
+- {grapheme: "るぁ", phonemes: [rx, w, a]}
+- {grapheme: "るぃ", phonemes: [rx, w, i]}
+- {grapheme: "るぇ", phonemes: [rx, w, e]}
+- {grapheme: "るぉ", phonemes: [rx, w, o]}
+- {grapheme: "ぐぁ", phonemes: [g, w, a]}
+- {grapheme: "ぐぃ", phonemes: [g, w, i]}
+- {grapheme: "ぐぇ", phonemes: [g, w, e]}
+- {grapheme: "ぐぉ", phonemes: [g, w, o]}
+- {grapheme: "ずぁ", phonemes: [z, w, a]}
+- {grapheme: "ずぃ", phonemes: [z, i]}
+- {grapheme: "ずぃ(1)", phonemes: [z, w, i]}
+- {grapheme: "ずぇ", phonemes: [z, w, e]}
+- {grapheme: "ずぉ", phonemes: [z, w, o]}
+- {grapheme: "づぁ", phonemes: [z, w, a]}
+- {grapheme: "づぃ", phonemes: [z, i]}
+- {grapheme: "づぃ(1)", phonemes: [z, w, i]}
+- {grapheme: "づぇ", phonemes: [z, w, e]}
+- {grapheme: "づぉ", phonemes: [z, w, o]}
+- {grapheme: "ぶぁ", phonemes: [b, w, a]}
+- {grapheme: "ぶぃ", phonemes: [b, w, i]}
+- {grapheme: "ぶぇ", phonemes: [b, w, e]}
+- {grapheme: "ぶぉ", phonemes: [b, w, o]}
+- {grapheme: "ぷぁ", phonemes: [px, w, a]}
+- {grapheme: "ぷぃ", phonemes: [px, w, i]}
+- {grapheme: "ぷぇ", phonemes: [px, w, e]}
+- {grapheme: "ぷぉ", phonemes: [px, w, o]}
+- {grapheme: "ヴぁ", phonemes: [v, a]}
+- {grapheme: "ヴぃ", phonemes: [v, i]}
+- {grapheme: "ヴぇ", phonemes: [v, e]}
+- {grapheme: "ヴぉ", phonemes: [v, o]}
+- {grapheme: "とぁ", phonemes: [tx, w, a]}
+- {grapheme: "とぃ", phonemes: [tx, w, i]}
+- {grapheme: "とぅ", phonemes: [tx, u]}
+- {grapheme: "とぇ", phonemes: [tx, w, e]}
+- {grapheme: "とぉ", phonemes: [tx, w, o]}
+- {grapheme: "どぁ", phonemes: [d, w, a]}
+- {grapheme: "どぃ", phonemes: [d, w, a]}
+- {grapheme: "どぅ", phonemes: [d, u]}
+- {grapheme: "どぇ", phonemes: [d, w, e]}
+- {grapheme: "どぉ", phonemes: [d, w, o]}
+- {grapheme: "てぃ", phonemes: [tx, i]}
+- {grapheme: "てぇ", phonemes: [ty, e]}
+- {grapheme: "てぃぇ", phonemes: [ty, e]}
+- {grapheme: "てゃ", phonemes: [ty, a]}
+- {grapheme: "てゅ", phonemes: [ty, u]}
+- {grapheme: "てょ", phonemes: [ty, o]}
+- {grapheme: "でぃ", phonemes: [d, i]}
+- {grapheme: "でぇ", phonemes: [dy, e]}
+- {grapheme: "でぃぇ", phonemes: [dy, e]}
+- {grapheme: "でゃ", phonemes: [dy, a]}
+- {grapheme: "でゅ", phonemes: [dy, u]}
+- {grapheme: "でょ", phonemes: [dy, o]}
+- {grapheme: "ふぃぇ", phonemes: [fx, y, e]}
+- {grapheme: "ふゃ", phonemes: [fx, y, a]}
+- {grapheme: "ふゅ", phonemes: [fx, y, u]}
+- {grapheme: "ふょ", phonemes: [fx, y, o]}
+- {grapheme: "すぃぇ", phonemes: [s, y, e]}
+- {grapheme: "すゃ", phonemes: [s, y, a]}
+- {grapheme: "すゅ", phonemes: [s, y, u]}
+- {grapheme: "すょ", phonemes: [s, y, o]}
+- {grapheme: "ずぃぇ", phonemes: [z, y, e]}
+- {grapheme: "ずゃ", phonemes: [z, y, a]}
+- {grapheme: "ずゅ", phonemes: [z, y, u]}
+- {grapheme: "ずょ", phonemes: [z, y, o]}
+- {grapheme: "づぃぇ", phonemes: [z, y, e]}
+- {grapheme: "づゃ", phonemes: [z, y, a]}
+- {grapheme: "づゅ", phonemes: [z, y, u]}
+- {grapheme: "づょ", phonemes: [z, y, o]}
+- {grapheme: "ヴぃぇ", phonemes: [v, y, e]}
+- {grapheme: "ヴゃ", phonemes: [v, y, a]}
+- {grapheme: "ヴゅ", phonemes: [v, y, u]}
+- {grapheme: "ヴょ", phonemes: [v, y, o]}
+- {grapheme: "き゜ぇ", phonemes: [ng, y, e]}
+- {grapheme: "き゜ゃ", phonemes: [ng, y, a]}
+- {grapheme: "き゜ゅ", phonemes: [ng, y, u]}
+- {grapheme: "き゜ょ", phonemes: [ng, y, o]}
+- {grapheme: "く゜ぁ", phonemes: [ng, w, a]}
+- {grapheme: "く゜ぃ", phonemes: [ng, w, i]}
+- {grapheme: "く゜ぇ", phonemes: [ng, w, e]}
+- {grapheme: "く゜ぉ", phonemes: [ng, w, o]}
+- {grapheme: "り゜ぇ", phonemes: [l, y, e]}
+- {grapheme: "り゜ゃ", phonemes: [l, y, a]}
+- {grapheme: "りき゜ゅ", phonemes: [l, y, u]}
+- {grapheme: "り゜ょ", phonemes: [l, y, o]}
+- {grapheme: "る゜ぁ", phonemes: [l, w, a]}
+- {grapheme: "る゜ぃ", phonemes: [l, w, i]}
+- {grapheme: "る゜ぇ", phonemes: [l, w, e]}
+- {grapheme: "る゜ぉ", phonemes: [l, w, o]}
+# Gemination
+- {grapheme: "っか", phonemes: [kx, kx, a]}
+- {grapheme: "っき", phonemes: [kx, kx, i]}
+- {grapheme: "っく", phonemes: [kx, kx, u]}
+- {grapheme: "っけ", phonemes: [kx, kx, e]}
+- {grapheme: "っこ", phonemes: [kx, kx, o]}
+- {grapheme: "っさ", phonemes: [s, s, a]}
+- {grapheme: "っし", phonemes: [sh, sh, i]}
+- {grapheme: "っす", phonemes: [s, s, u]}
+- {grapheme: "っせ", phonemes: [s, s, e]}
+- {grapheme: "っそ", phonemes: [s, s, o]}
+- {grapheme: "った", phonemes: [tx, tx, a]}
+- {grapheme: "っち", phonemes: [ty, ch, i]}
+- {grapheme: "っつ", phonemes: [t, ts, u]}
+- {grapheme: "って", phonemes: [tx, tx, e]}
+- {grapheme: "っと", phonemes: [tx, tx, o]}
+- {grapheme: "っは", phonemes: [h, h, a]}
+- {grapheme: "っひ", phonemes: [h, h, i]}
+- {grapheme: "っふ", phonemes: [fx, fx, u]}
+- {grapheme: "っへ", phonemes: [h, h, e]}
+- {grapheme: "っほ", phonemes: [h, h, o]}
+- {grapheme: "っが", phonemes: [g, g, a]}
+- {grapheme: "っぎ", phonemes: [g, g, i]}
+- {grapheme: "っぐ", phonemes: [g, g, u]}
+- {grapheme: "っげ", phonemes: [g, g, e]}
+- {grapheme: "っご", phonemes: [g, g, o]}
+- {grapheme: "っざ", phonemes: [z, z, a]}
+- {grapheme: "っじ", phonemes: [dy, j, i]}
+- {grapheme: "っず", phonemes: [z, z, u]}
+- {grapheme: "っぜ", phonemes: [z, z, e]}
+- {grapheme: "っぞ", phonemes: [z, z, o]}
+- {grapheme: "っだ", phonemes: [d, d, a]}
+- {grapheme: "っぢ", phonemes: [dy, j, i]}
+- {grapheme: "っづ", phonemes: [z, z, u]}
+- {grapheme: "っで", phonemes: [d, d, e]}
+- {grapheme: "っど", phonemes: [d, d, o]}
+- {grapheme: "っば", phonemes: [b, b, a]}
+- {grapheme: "っび", phonemes: [b, b, i]}
+- {grapheme: "っぶ", phonemes: [b, b, u]}
+- {grapheme: "っべ", phonemes: [b, b, e]}
+- {grapheme: "っぼ", phonemes: [b, b, o]}
+- {grapheme: "っぱ", phonemes: [px, px, a]}
+- {grapheme: "っぴ", phonemes: [px, px, i]}
+- {grapheme: "っぷ", phonemes: [px, px, u]}
+- {grapheme: "っぺ", phonemes: [px, px, e]}
+- {grapheme: "っぽ", phonemes: [px, px, o]}
+- {grapheme: "っヴ", phonemes: [v, v, u]}
+- {grapheme: "っきゃ", phonemes: [ky, ky, a]}
+- {grapheme: "っきゅ", phonemes: [ky, ky, u]}
+- {grapheme: "っきょ", phonemes: [ky, ky, o]}
+- {grapheme: "っしゃ", phonemes: [sh, sh, a]}
+- {grapheme: "っしゅ", phonemes: [sh, sh, u]}
+- {grapheme: "っしょ", phonemes: [sh, sh, o]}
+- {grapheme: "っちゃ", phonemes: [ty, ch, a]}
+- {grapheme: "っちゅ", phonemes: [ty, ch, u]}
+- {grapheme: "っちょ", phonemes: [ty, ch, o]}
+- {grapheme: "っひゃ", phonemes: [hy, hy, a]}
+- {grapheme: "っひゅ", phonemes: [hy, hy, u]}
+- {grapheme: "っひょ", phonemes: [hy, hy, o]}
+- {grapheme: "っぎゃ", phonemes: [gy, gy, a]}
+- {grapheme: "っぎゅ", phonemes: [gy, gy, u]}
+- {grapheme: "っぎょ", phonemes: [gy, gy, o]}
+- {grapheme: "っじゃ", phonemes: [dy, j, a]}
+- {grapheme: "っじゅ", phonemes: [dy, j, u]}
+- {grapheme: "っじょ", phonemes: [dy, j, o]}
+- {grapheme: "っぢゃ", phonemes: [dy, j, a]}
+- {grapheme: "っぢゅ", phonemes: [dy, j, u]}
+- {grapheme: "っぢょ", phonemes: [dy, j, o]}
+- {grapheme: "っびゃ", phonemes: [by, by, a]}
+- {grapheme: "っびゅ", phonemes: [by, by, u]}
+- {grapheme: "っびょ", phonemes: [by, by, o]}
+- {grapheme: "っぴゃ", phonemes: [py, py, a]}
+- {grapheme: "っぴゅ", phonemes: [py, py, u]}
+- {grapheme: "っぴょ", phonemes: [py, py, o]}
+- {grapheme: "っきぇ", phonemes: [ky, ky, e]}
+- {grapheme: "っしぇ", phonemes: [sh, sh, e]}
+- {grapheme: "っちぇ", phonemes: [ty, ch, e]}
+- {grapheme: "っひぇ", phonemes: [hy, hy, e]}
+- {grapheme: "っぎぇ", phonemes: [gy, gy, e]}
+- {grapheme: "っじぇ", phonemes: [dy, j, e]}
+- {grapheme: "っぢぇ", phonemes: [dy, j, e]}
+- {grapheme: "っびぇ", phonemes: [by, by, e]}
+- {grapheme: "っぴぇ", phonemes: [py, py, e]}
+- {grapheme: "っくぁ", phonemes: [kx, kx, w, a]}
+- {grapheme: "っくぃ", phonemes: [kx, kx, w, i]}
+- {grapheme: "っくぇ", phonemes: [kx, kx, w, e]}
+- {grapheme: "っくぉ", phonemes: [kx, kx, w, o]}
+- {grapheme: "っすぁ", phonemes: [s, s, w, a]}
+- {grapheme: "っすぃ", phonemes: [s, s, i]}
+- {grapheme: "っすぃ(1)", phonemes: [s, s, w, i]}
+- {grapheme: "っすぇ", phonemes: [s, s, w, e]}
+- {grapheme: "っすぉ", phonemes: [s, s, w, o]}
+- {grapheme: "っつぁ", phonemes: [t, ts, a]}
+- {grapheme: "っつぃ", phonemes: [t, ts, i]}
+- {grapheme: "っつぇ", phonemes: [t, ts, e]}
+- {grapheme: "っつぉ", phonemes: [t, ts, o]}
+- {grapheme: "っふぁ", phonemes: [fx, fx, a]}
+- {grapheme: "っふぃ", phonemes: [fx, fx, i]}
+- {grapheme: "っふぇ", phonemes: [fx, fx, e]}
+- {grapheme: "っふぉ", phonemes: [fx, fx, o]}
+- {grapheme: "っぐぁ", phonemes: [g, g, w, a]}
+- {grapheme: "っぐぃ", phonemes: [g, g, w, i]}
+- {grapheme: "っぐぇ", phonemes: [g, g, w, e]}
+- {grapheme: "っぐぉ", phonemes: [g, g, w, o]}
+- {grapheme: "っずぁ", phonemes: [z, z, w, a]}
+- {grapheme: "っずぃ", phonemes: [z, z, i]}
+- {grapheme: "っずぃ(1)", phonemes: [z, z, w, i]}
+- {grapheme: "っずぇ", phonemes: [z, z, w, e]}
+- {grapheme: "っずぉ", phonemes: [z, z, w, o]}
+- {grapheme: "っづぁ", phonemes: [z, z, w, a]}
+- {grapheme: "っづぃ", phonemes: [z, z, i]}
+- {grapheme: "っづぃ(1)", phonemes: [z, z, w, i]}
+- {grapheme: "っづぇ", phonemes: [z, z, w, e]}
+- {grapheme: "っづぉ", phonemes: [z, z, w, o]}
+- {grapheme: "っぶぁ", phonemes: [b, b, w, a]}
+- {grapheme: "っぶぃ", phonemes: [b, b, w, i]}
+- {grapheme: "っぶぇ", phonemes: [b, b, w, e]}
+- {grapheme: "っぶぉ", phonemes: [b, b, w, o]}
+- {grapheme: "っぷぁ", phonemes: [px, px, w, a]}
+- {grapheme: "っぷぃ", phonemes: [px, px, w, i]}
+- {grapheme: "っぷぇ", phonemes: [px, px, w, e]}
+- {grapheme: "っぷぉ", phonemes: [px, px, w, o]}
+- {grapheme: "っヴぁ", phonemes: [v, v, a]}
+- {grapheme: "っヴぃ", phonemes: [v, v, i]}
+- {grapheme: "っヴぇ", phonemes: [v, v, e]}
+- {grapheme: "っヴぉ", phonemes: [v, v, o]}
+- {grapheme: "っとぁ", phonemes: [tx, tx, w, a]}
+- {grapheme: "っとぃ", phonemes: [tx, tx, w, i]}
+- {grapheme: "っとぅ", phonemes: [tx, tx, u]}
+- {grapheme: "っとぇ", phonemes: [tx, tx, w, e]}
+- {grapheme: "っとぉ", phonemes: [tx, tx, w, o]}
+- {grapheme: "っどぁ", phonemes: [d, d, w, a]}
+- {grapheme: "っどぃ", phonemes: [d, d, w, a]}
+- {grapheme: "っどぅ", phonemes: [d, d, u]}
+- {grapheme: "っどぇ", phonemes: [d, d, w, e]}
+- {grapheme: "っどぉ", phonemes: [d, d, w, o]}
+- {grapheme: "ってぃ", phonemes: [tx, tx, i]}
+- {grapheme: "ってぇ", phonemes: [ty, ty, e]}
+- {grapheme: "ってぃぇ", phonemes: [ty, ty, e]}
+- {grapheme: "ってゃ", phonemes: [ty, ty, a]}
+- {grapheme: "ってゅ", phonemes: [ty, ty, u]}
+- {grapheme: "ってょ", phonemes: [ty, ty, o]}
+- {grapheme: "っでぃ", phonemes: [d, d, i]}
+- {grapheme: "っでぇ", phonemes: [dy, dy, e]}
+- {grapheme: "っでぃぇ", phonemes: [dy, dy, e]}
+- {grapheme: "っでゃ", phonemes: [dy, dy, a]}
+- {grapheme: "っでゅ", phonemes: [dy, dy, u]}
+- {grapheme: "っでょ", phonemes: [dy, dy, o]}
+- {grapheme: "っふぃぇ", phonemes: [fx, fx, y, e]}
+- {grapheme: "っふゃ", phonemes: [fx, fx, y, a]}
+- {grapheme: "っふゅ", phonemes: [fx, fx, y, u]}
+- {grapheme: "っふょ", phonemes: [fx, fx, y, o]}
+- {grapheme: "っすぃぇ", phonemes: [s, s, y, e]}
+- {grapheme: "っすゃ", phonemes: [s, s, y, a]}
+- {grapheme: "っすゅ", phonemes: [s, s, y, u]}
+- {grapheme: "っすょ", phonemes: [s, s, y, o]}
+- {grapheme: "っずぃぇ", phonemes: [z, z, y, e]}
+- {grapheme: "っずゃ", phonemes: [z, z, y, a]}
+- {grapheme: "っずゅ", phonemes: [z, z, y, u]}
+- {grapheme: "っずょ", phonemes: [z, z, y, o]}
+- {grapheme: "っづぃぇ", phonemes: [z, z, y, e]}
+- {grapheme: "っづゃ", phonemes: [z, z, y, a]}
+- {grapheme: "っづゅ", phonemes: [z, z, y, u]}
+- {grapheme: "っづょ", phonemes: [z, z, y, o]}
+- {grapheme: "っヴぃぇ", phonemes: [v, v, y, e]}
+- {grapheme: "っヴゃ", phonemes: [v, v, y, a]}
+- {grapheme: "っヴゅ", phonemes: [v, v, y, u]}
+- {grapheme: "っヴょ", phonemes: [v, v, y, o]}
+
+# Katakana, used for museion (vowel devoicing)
+- {grapheme: "ッ", phonemes: [SP]}
+- {grapheme: "ア", phonemes: [A]}
+- {grapheme: "イ", phonemes: [I]}
+- {grapheme: "ウ", phonemes: [U]}
+- {grapheme: "エ", phonemes: [E]}
+- {grapheme: "オ", phonemes: [O]}
+- {grapheme: "カ", phonemes: [kx, A]}
+- {grapheme: "キ", phonemes: [kx, I]}
+- {grapheme: "ク", phonemes: [kx, U]}
+- {grapheme: "ケ", phonemes: [kx, E]}
+- {grapheme: "コ", phonemes: [kx, O]}
+- {grapheme: "サ", phonemes: [s, A]}
+- {grapheme: "シ", phonemes: [sh, I]}
+- {grapheme: "ス", phonemes: [s, U]}
+- {grapheme: "セ", phonemes: [s, E]}
+- {grapheme: "ソ", phonemes: [s, O]}
+- {grapheme: "タ", phonemes: [tx, A]}
+- {grapheme: "チ", phonemes: [ch, I]}
+- {grapheme: "ツ", phonemes: [ts, U]}
+- {grapheme: "テ", phonemes: [tx, E]}
+- {grapheme: "ト", phonemes: [tx, O]}
+- {grapheme: "ナ", phonemes: [n, A]}
+- {grapheme: "ニ", phonemes: [n,I]}
+- {grapheme: "ヌ", phonemes: [n, U]}
+- {grapheme: "ネ", phonemes: [n, E]}
+- {grapheme: "ノ", phonemes: [n, O]}
+- {grapheme: "ハ", phonemes: [h, A]}
+- {grapheme: "ヒ", phonemes: [h, I]}
+- {grapheme: "フ", phonemes: [fx, U]}
+- {grapheme: "ヘ", phonemes: [h, E]}
+- {grapheme: "ホ", phonemes: [h, O]}
+- {grapheme: "マ", phonemes: [m, A]}
+- {grapheme: "ミ", phonemes: [m, I]}
+- {grapheme: "ム", phonemes: [m, U]}
+- {grapheme: "メ", phonemes: [m, E]}
+- {grapheme: "モ", phonemes: [m, O]}
+- {grapheme: "ヤ", phonemes: [y, A]}
+- {grapheme: "ユ", phonemes: [y, U]}
+- {grapheme: "ヨ", phonemes: [y, O]}
+- {grapheme: "ラ", phonemes: [rx, A]}
+- {grapheme: "リ", phonemes: [rx, I]}
+- {grapheme: "ル", phonemes: [rx, U]}
+- {grapheme: "レ", phonemes: [rx, E]}
+- {grapheme: "ロ", phonemes: [rx, O]}
+- {grapheme: "ワ", phonemes: [w, A]}
+- {grapheme: "ヲ", phonemes: [O]}
+- {grapheme: "ン", phonemes: [N]}
+- {grapheme: "ガ", phonemes: [g, A]}
+- {grapheme: "ギ", phonemes: [g, I]}
+- {grapheme: "グ", phonemes: [g, U]}
+- {grapheme: "ゲ", phonemes: [g, E]}
+- {grapheme: "ゴ", phonemes: [g, O]}
+- {grapheme: "ザ", phonemes: [z, A]}
+- {grapheme: "ジ", phonemes: [j, I]}
+- {grapheme: "ズ", phonemes: [z, U]}
+- {grapheme: "ゼ", phonemes: [z, E]}
+- {grapheme: "ゾ", phonemes: [z, O]}
+- {grapheme: "ダ", phonemes: [d, A]}
+- {grapheme: "ヂ", phonemes: [j, I]}
+- {grapheme: "ヅ", phonemes: [z, U]}
+- {grapheme: "デ", phonemes: [d, E]}
+- {grapheme: "ド", phonemes: [d, O]}
+- {grapheme: "バ", phonemes: [b, A]}
+- {grapheme: "ビ", phonemes: [b, I]}
+- {grapheme: "ブ", phonemes: [b, U]}
+- {grapheme: "ベ", phonemes: [b, E]}
+- {grapheme: "ボ", phonemes: [b, O]}
+- {grapheme: "パ", phonemes: [px, A]}
+- {grapheme: "ピ", phonemes: [px, I]}
+- {grapheme: "プ", phonemes: [px, U]}
+- {grapheme: "ペ", phonemes: [px, E]}
+- {grapheme: "ポ", phonemes: [px, O]}
+- {grapheme: "ヴゥ", phonemes: [v, U]}
+- {grapheme: "カ゜", phonemes: [ng, A]}
+- {grapheme: "キ゜", phonemes: [ng, I]}
+- {grapheme: "ク゜", phonemes: [ng, U]}
+- {grapheme: "ケ゜", phonemes: [ng, E]}
+- {grapheme: "コ゜", phonemes: [ng, O]}
+- {grapheme: "ラ゜", phonemes: [l, A]}
+- {grapheme: "リ゜", phonemes: [l, I]}
+- {grapheme: "ル゜", phonemes: [l, U]}
+- {grapheme: "レ゜", phonemes: [l, E]}
+- {grapheme: "ロ゜", phonemes: [l, O]}
+- {grapheme: "キャ", phonemes: [ky, A]}
+- {grapheme: "キュ", phonemes: [ky, U]}
+- {grapheme: "キョ", phonemes: [ky, O]}
+- {grapheme: "シャ", phonemes: [sh, A]}
+- {grapheme: "シュ", phonemes: [sh, U]}
+- {grapheme: "ショ", phonemes: [sh, O]}
+- {grapheme: "チャ", phonemes: [ch, A]}
+- {grapheme: "チュ", phonemes: [ch, U]}
+- {grapheme: "チョ", phonemes: [ch, O]}
+- {grapheme: "ニャ", phonemes: [ny, A]}
+- {grapheme: "ニュ", phonemes: [ny, U]}
+- {grapheme: "ニョ", phonemes: [ny, O]}
+- {grapheme: "ヒャ", phonemes: [hy, A]}
+- {grapheme: "ヒュ", phonemes: [hy, U]}
+- {grapheme: "ヒョ", phonemes: [hy, O]}
+- {grapheme: "ミャ", phonemes: [my, A]}
+- {grapheme: "ミュ", phonemes: [my, U]}
+- {grapheme: "ミョ", phonemes: [my, O]}
+- {grapheme: "リャ", phonemes: [ry, A]}
+- {grapheme: "リュ", phonemes: [ry, U]}
+- {grapheme: "リョ", phonemes: [ry, O]}
+- {grapheme: "ギャ", phonemes: [gy, A]}
+- {grapheme: "ギュ", phonemes: [gy, U]}
+- {grapheme: "ギョ", phonemes: [gy, O]}
+- {grapheme: "ジャ", phonemes: [j, A]}
+- {grapheme: "ジュ", phonemes: [j, U]}
+- {grapheme: "ジョ", phonemes: [j, O]}
+- {grapheme: "ヂャ", phonemes: [j, A]}
+- {grapheme: "ヂュ", phonemes: [j, U]}
+- {grapheme: "ヂョ", phonemes: [j, O]}
+- {grapheme: "ビャ", phonemes: [by, A]}
+- {grapheme: "ビュ", phonemes: [by, U]}
+- {grapheme: "ビョ", phonemes: [by, O]}
+- {grapheme: "ピャ", phonemes: [py, A]}
+- {grapheme: "ピュ", phonemes: [py, U]}
+- {grapheme: "ピョ", phonemes: [py, O]}
+- {grapheme: "イェ", phonemes: [y, E]}
+- {grapheme: "キェ", phonemes: [ky, E]}
+- {grapheme: "シェ", phonemes: [sh, E]}
+- {grapheme: "チェ", phonemes: [ch, E]}
+- {grapheme: "ニェ", phonemes: [ny, E]}
+- {grapheme: "ヒェ", phonemes: [hy, E]}
+- {grapheme: "ミェ", phonemes: [my, E]}
+- {grapheme: "リェ", phonemes: [ry, E]}
+- {grapheme: "ギェ", phonemes: [gy, E]}
+- {grapheme: "ジェ", phonemes: [j, E]}
+- {grapheme: "ヂェ", phonemes: [j, E]}
+- {grapheme: "ビェ", phonemes: [by, E]}
+- {grapheme: "ピェ", phonemes: [py, E]}
+- {grapheme: "ウァ", phonemes: [w, A]}
+- {grapheme: "ウィ", phonemes: [w, I]}
+- {grapheme: "ウェ", phonemes: [w, E]}
+- {grapheme: "ウォ", phonemes: [w, O]}
+- {grapheme: "クァ", phonemes: [kx, w, A]}
+- {grapheme: "クィ", phonemes: [kx, w, I]}
+- {grapheme: "クェ", phonemes: [kx, w, E]}
+- {grapheme: "クォ", phonemes: [kx, w, O]}
+- {grapheme: "スァ", phonemes: [s, w, A]}
+- {grapheme: "スィ", phonemes: [s, I]}
+- {grapheme: "スィ(1)", phonemes: [s, w, I]}
+- {grapheme: "スェ", phonemes: [s, w, E]}
+- {grapheme: "スォ", phonemes: [s, w, O]}
+- {grapheme: "ツァ", phonemes: [ts, A]}
+- {grapheme: "ツィ", phonemes: [ts, I]}
+- {grapheme: "ツェ", phonemes: [ts, E]}
+- {grapheme: "ツォ", phonemes: [ts, O]}
+- {grapheme: "ヌァ", phonemes: [n, w, A]}
+- {grapheme: "ヌィ", phonemes: [n, w, I]}
+- {grapheme: "ヌェ", phonemes: [n, w, E]}
+- {grapheme: "ヌォ", phonemes: [n, w, O]}
+- {grapheme: "ファ", phonemes: [fx, A]}
+- {grapheme: "フィ", phonemes: [fx, I]}
+- {grapheme: "フェ", phonemes: [fx, E]}
+- {grapheme: "フォ", phonemes: [fx, O]}
+- {grapheme: "ムァ", phonemes: [m, w, A]}
+- {grapheme: "ムィ", phonemes: [m, w, I]}
+- {grapheme: "ムェ", phonemes: [m, w, E]}
+- {grapheme: "ムォ", phonemes: [m, w, O]}
+- {grapheme: "ルァ", phonemes: [rx, w, A]}
+- {grapheme: "ルィ", phonemes: [rx, w, I]}
+- {grapheme: "ルェ", phonemes: [rx, w, E]}
+- {grapheme: "ルォ", phonemes: [rx, w, O]}
+- {grapheme: "グァ", phonemes: [g, w, A]}
+- {grapheme: "グィ", phonemes: [g, w, I]}
+- {grapheme: "グェ", phonemes: [g, w, E]}
+- {grapheme: "グォ", phonemes: [g, w, O]}
+- {grapheme: "ズァ", phonemes: [z, w, A]}
+- {grapheme: "ズィ", phonemes: [z, I]}
+- {grapheme: "ズィ(1)", phonemes: [z, w, I]}
+- {grapheme: "ズェ", phonemes: [z, w, E]}
+- {grapheme: "ズォ", phonemes: [z, w, O]}
+- {grapheme: "ヅァ", phonemes: [z, w, A]}
+- {grapheme: "ヅィ", phonemes: [z, I]}
+- {grapheme: "ヅィ(1)", phonemes: [z, w, I]}
+- {grapheme: "ヅェ", phonemes: [z, w, E]}
+- {grapheme: "ヅォ", phonemes: [z, w, O]}
+- {grapheme: "ブァ", phonemes: [b, w, A]}
+- {grapheme: "ブィ", phonemes: [b, w, I]}
+- {grapheme: "ブェ", phonemes: [b, w, E]}
+- {grapheme: "ブォ", phonemes: [b, w, O]}
+- {grapheme: "プァ", phonemes: [px, w, A]}
+- {grapheme: "プィ", phonemes: [px, w, I]}
+- {grapheme: "プェ", phonemes: [px, w, E]}
+- {grapheme: "プォ", phonemes: [px, w, O]}
+- {grapheme: "ヴァ", phonemes: [v, A]}
+- {grapheme: "ヴィ", phonemes: [v, I]}
+- {grapheme: "ヴェ", phonemes: [v, E]}
+- {grapheme: "ヴォ", phonemes: [v, O]}
+- {grapheme: "トァ", phonemes: [tx, w, A]}
+- {grapheme: "トィ", phonemes: [tx, w, I]}
+- {grapheme: "トぅ", phonemes: [tx, U]}
+- {grapheme: "トェ", phonemes: [tx, w, E]}
+- {grapheme: "トォ", phonemes: [tx, w, O]}
+- {grapheme: "ドァ", phonemes: [d, w, A]}
+- {grapheme: "ドィ", phonemes: [d, w, A]}
+- {grapheme: "ドぅ", phonemes: [d, U]}
+- {grapheme: "ドェ", phonemes: [d, w, E]}
+- {grapheme: "ドォ", phonemes: [d, w, O]}
+- {grapheme: "ティ", phonemes: [tx, I]}
+- {grapheme: "テェ", phonemes: [ty, E]}
+- {grapheme: "ティェ", phonemes: [ty, E]}
+- {grapheme: "テャ", phonemes: [ty, A]}
+- {grapheme: "テュ", phonemes: [ty, U]}
+- {grapheme: "テョ", phonemes: [ty, O]}
+- {grapheme: "ディ", phonemes: [d, I]}
+- {grapheme: "デェ", phonemes: [dy, E]}
+- {grapheme: "ディェ", phonemes: [dy, E]}
+- {grapheme: "デャ", phonemes: [dy, A]}
+- {grapheme: "デュ", phonemes: [dy, U]}
+- {grapheme: "デョ", phonemes: [dy, O]}
+- {grapheme: "フィェ", phonemes: [fx, y, E]}
+- {grapheme: "フャ", phonemes: [fx, y, A]}
+- {grapheme: "フュ", phonemes: [fx, y, U]}
+- {grapheme: "フョ", phonemes: [fx, y, O]}
+- {grapheme: "スィェ", phonemes: [s, y, E]}
+- {grapheme: "スャ", phonemes: [s, y, A]}
+- {grapheme: "スュ", phonemes: [s, y, U]}
+- {grapheme: "スョ", phonemes: [s, y, O]}
+- {grapheme: "ズィェ", phonemes: [z, y, E]}
+- {grapheme: "ズャ", phonemes: [z, y, A]}
+- {grapheme: "ズュ", phonemes: [z, y, U]}
+- {grapheme: "ズョ", phonemes: [z, y, O]}
+- {grapheme: "ヅィェ", phonemes: [z, y, E]}
+- {grapheme: "ヅャ", phonemes: [z, y, A]}
+- {grapheme: "ヅュ", phonemes: [z, y, U]}
+- {grapheme: "ヅョ", phonemes: [z, y, O]}
+- {grapheme: "ヴィェ", phonemes: [v, y, E]}
+- {grapheme: "ヴャ", phonemes: [v, y, A]}
+- {grapheme: "ヴュ", phonemes: [v, y, U]}
+- {grapheme: "ヴョ", phonemes: [v, y, O]}
+- {grapheme: "キ゜ェ", phonemes: [ng, y, E]}
+- {grapheme: "キ゜ャ", phonemes: [ng, y, A]}
+- {grapheme: "キ゜ュ", phonemes: [ng, y, U]}
+- {grapheme: "キ゜ョ", phonemes: [ng, y, O]}
+- {grapheme: "ク゜ァ", phonemes: [ng, w, A]}
+- {grapheme: "ク゜ィ", phonemes: [ng, w, I]}
+- {grapheme: "ク゜ェ", phonemes: [ng, w, E]}
+- {grapheme: "ク゜ォ", phonemes: [ng, w, O]}
+- {grapheme: "リ゜ェ", phonemes: [l, y, E]}
+- {grapheme: "リ゜ャ", phonemes: [l, y, A]}
+- {grapheme: "リ゜ュ", phonemes: [l, y, U]}
+- {grapheme: "リ゜ョ", phonemes: [l, y, O]}
+- {grapheme: "ル゜ァ", phonemes: [l, w, A]}
+- {grapheme: "ル゜ィ", phonemes: [l, w, I]}
+- {grapheme: "ル゜ェ", phonemes: [l, w, E]}
+- {grapheme: "ル゜ォ", phonemes: [l, w, O]}
+# Devoiced gemination
+- {grapheme: "ッカ", phonemes: [kx, kx, A]}
+- {grapheme: "ッキ", phonemes: [kx, kx, I]}
+- {grapheme: "ック", phonemes: [kx, kx, U]}
+- {grapheme: "ッケ", phonemes: [kx, kx, E]}
+- {grapheme: "ッコ", phonemes: [kx, kx, O]}
+- {grapheme: "ッサ", phonemes: [s, s, A]}
+- {grapheme: "ッシ", phonemes: [sh, sh, I]}
+- {grapheme: "ッス", phonemes: [s, s, U]}
+- {grapheme: "ッセ", phonemes: [s, s, E]}
+- {grapheme: "ッソ", phonemes: [s, s, O]}
+- {grapheme: "ッタ", phonemes: [tx, tx, A]}
+- {grapheme: "ッチ", phonemes: [ty, ch, I]}
+- {grapheme: "ッツ", phonemes: [t, ts, U]}
+- {grapheme: "ッテ", phonemes: [tx, tx, E]}
+- {grapheme: "ット", phonemes: [tx, tx, O]}
+- {grapheme: "ッハ", phonemes: [h, h, A]}
+- {grapheme: "ッヒ", phonemes: [h, h, I]}
+- {grapheme: "ッフ", phonemes: [fx, fx, U]}
+- {grapheme: "ッヘ", phonemes: [h, h, E]}
+- {grapheme: "ッホ", phonemes: [h, h, O]}
+- {grapheme: "ッガ", phonemes: [g, g, A]}
+- {grapheme: "ッギ", phonemes: [g, g, I]}
+- {grapheme: "ッグ", phonemes: [g, g, U]}
+- {grapheme: "ッゲ", phonemes: [g, g, E]}
+- {grapheme: "ッゴ", phonemes: [g, g, O]}
+- {grapheme: "ッザ", phonemes: [z, z, A]}
+- {grapheme: "ッジ", phonemes: [dy, j, I]}
+- {grapheme: "ッズ", phonemes: [z, z, U]}
+- {grapheme: "ッゼ", phonemes: [z, z, E]}
+- {grapheme: "ッゾ", phonemes: [z, z, O]}
+- {grapheme: "ッダ", phonemes: [d, d, A]}
+- {grapheme: "ッヂ", phonemes: [dy, j, I]}
+- {grapheme: "ッヅ", phonemes: [z, z, U]}
+- {grapheme: "ッデ", phonemes: [d, d, E]}
+- {grapheme: "ッド", phonemes: [d, d, O]}
+- {grapheme: "ッバ", phonemes: [b, b, A]}
+- {grapheme: "ッビ", phonemes: [b, b, I]}
+- {grapheme: "ッブ", phonemes: [b, b, U]}
+- {grapheme: "ッベ", phonemes: [b, b, E]}
+- {grapheme: "ッボ", phonemes: [b, b, O]}
+- {grapheme: "ッパ", phonemes: [px, px, A]}
+- {grapheme: "ッピ", phonemes: [px, px, I]}
+- {grapheme: "ップ", phonemes: [px, px, U]}
+- {grapheme: "ッペ", phonemes: [px, px, E]}
+- {grapheme: "ッポ", phonemes: [px, px, O]}
+- {grapheme: "ッヴ", phonemes: [v, v, U]}
+- {grapheme: "ッキャ", phonemes: [ky, ky, A]}
+- {grapheme: "ッキュ", phonemes: [ky, ky, U]}
+- {grapheme: "ッキョ", phonemes: [ky, ky, O]}
+- {grapheme: "ッシャ", phonemes: [sh, sh, A]}
+- {grapheme: "ッシュ", phonemes: [sh, sh, U]}
+- {grapheme: "ッショ", phonemes: [sh, sh, O]}
+- {grapheme: "ッチャ", phonemes: [ty, ch, A]}
+- {grapheme: "ッチュ", phonemes: [ty, ch, U]}
+- {grapheme: "ッチョ", phonemes: [ty, ch, O]}
+- {grapheme: "ッヒャ", phonemes: [hy, hy, A]}
+- {grapheme: "ッヒュ", phonemes: [hy, hy, U]}
+- {grapheme: "ッヒョ", phonemes: [hy, hy, O]}
+- {grapheme: "ッギャ", phonemes: [gy, gy, A]}
+- {grapheme: "ッギュ", phonemes: [gy, gy, U]}
+- {grapheme: "ッギョ", phonemes: [gy, gy, O]}
+- {grapheme: "ッジャ", phonemes: [dy, j, A]}
+- {grapheme: "ッジュ", phonemes: [dy, j, U]}
+- {grapheme: "ッジョ", phonemes: [dy, j, O]}
+- {grapheme: "ッヂャ", phonemes: [dy, j, A]}
+- {grapheme: "ッヂュ", phonemes: [dy, j, U]}
+- {grapheme: "ッヂョ", phonemes: [dy, j, O]}
+- {grapheme: "ッビャ", phonemes: [by, by, A]}
+- {grapheme: "ッビュ", phonemes: [by, by, U]}
+- {grapheme: "ッビョ", phonemes: [by, by, O]}
+- {grapheme: "ッピャ", phonemes: [py, py, A]}
+- {grapheme: "ッピュ", phonemes: [py, py, U]}
+- {grapheme: "ッピョ", phonemes: [py, py, O]}
+- {grapheme: "ッキェ", phonemes: [ky, ky, E]}
+- {grapheme: "ッシェ", phonemes: [sh, sh, E]}
+- {grapheme: "ッチェ", phonemes: [ty, ch, E]}
+- {grapheme: "ッヒェ", phonemes: [hy, hy, E]}
+- {grapheme: "ッギェ", phonemes: [gy, gy, E]}
+- {grapheme: "ッジェ", phonemes: [dy, j, E]}
+- {grapheme: "ッヂェ", phonemes: [dy, j, E]}
+- {grapheme: "ッビェ", phonemes: [by, by, E]}
+- {grapheme: "ッピェ", phonemes: [py, py, E]}
+- {grapheme: "ックァ", phonemes: [kx, kx, w, A]}
+- {grapheme: "ックィ", phonemes: [kx, kx, w, I]}
+- {grapheme: "ックェ", phonemes: [kx, kx, w, E]}
+- {grapheme: "ックォ", phonemes: [kx, kx, w, O]}
+- {grapheme: "ッスァ", phonemes: [s, s, w, A]}
+- {grapheme: "ッスィ", phonemes: [s, s, I]}
+- {grapheme: "ッスィ(1)", phonemes: [s, s, w, I]}
+- {grapheme: "ッスェ", phonemes: [s, s, w, E]}
+- {grapheme: "ッスォ", phonemes: [s, s, w, O]}
+- {grapheme: "ッツァ", phonemes: [t, ts, A]}
+- {grapheme: "ッツィ", phonemes: [t, ts, I]}
+- {grapheme: "ッツェ", phonemes: [t, ts, E]}
+- {grapheme: "ッツォ", phonemes: [t, ts, O]}
+- {grapheme: "ッファ", phonemes: [fx, fx, A]}
+- {grapheme: "ッフィ", phonemes: [fx, fx, I]}
+- {grapheme: "ッフェ", phonemes: [fx, fx, E]}
+- {grapheme: "ッフォ", phonemes: [fx, fx, O]}
+- {grapheme: "ッグァ", phonemes: [g, g, w, A]}
+- {grapheme: "ッグィ", phonemes: [g, g, w, I]}
+- {grapheme: "ッグェ", phonemes: [g, g, w, E]}
+- {grapheme: "ッグォ", phonemes: [g, g, w, O]}
+- {grapheme: "ッズァ", phonemes: [z, z, w, A]}
+- {grapheme: "ッズィ", phonemes: [z, z, I]}
+- {grapheme: "ッズィ(1)", phonemes: [z, z, w, I]}
+- {grapheme: "ッズェ", phonemes: [z, z, w, E]}
+- {grapheme: "ッズォ", phonemes: [z, z, w, O]}
+- {grapheme: "ッヅァ", phonemes: [z, z, w, A]}
+- {grapheme: "ッヅィ", phonemes: [z, z, I]}
+- {grapheme: "ッヅィ(1)", phonemes: [z, z, w, I]}
+- {grapheme: "ッヅェ", phonemes: [z, z, w, E]}
+- {grapheme: "ッヅォ", phonemes: [z, z, w, O]}
+- {grapheme: "ッブァ", phonemes: [b, b, w, A]}
+- {grapheme: "ッブィ", phonemes: [b, b, w, I]}
+- {grapheme: "ッブェ", phonemes: [b, b, w, E]}
+- {grapheme: "ッブォ", phonemes: [b, b, w, O]}
+- {grapheme: "ップァ", phonemes: [px, px, w, A]}
+- {grapheme: "ップィ", phonemes: [px, px, w, I]}
+- {grapheme: "ップェ", phonemes: [px, px, w, E]}
+- {grapheme: "ップォ", phonemes: [px, px, w, O]}
+- {grapheme: "ッヴァ", phonemes: [v, v, A]}
+- {grapheme: "ッヴィ", phonemes: [v, v, I]}
+- {grapheme: "ッヴェ", phonemes: [v, v, E]}
+- {grapheme: "ッヴォ", phonemes: [v, v, O]}
+- {grapheme: "ットァ", phonemes: [tx, tx, w, A]}
+- {grapheme: "ットィ", phonemes: [tx, tx, w, I]}
+- {grapheme: "ットぅ", phonemes: [tx, tx, U]}
+- {grapheme: "ットェ", phonemes: [tx, tx, w, E]}
+- {grapheme: "ットォ", phonemes: [tx, tx, w, O]}
+- {grapheme: "ッドァ", phonemes: [d, d, w, A]}
+- {grapheme: "ッドィ", phonemes: [d, d, w, A]}
+- {grapheme: "ッドぅ", phonemes: [d, d, U]}
+- {grapheme: "ッドェ", phonemes: [d, d, w, E]}
+- {grapheme: "ッドォ", phonemes: [d, d, w, O]}
+- {grapheme: "ッティ", phonemes: [tx, tx, I]}
+- {grapheme: "ッテェ", phonemes: [ty, ty, E]}
+- {grapheme: "ッティェ", phonemes: [ty, ty, E]}
+- {grapheme: "ッテャ", phonemes: [ty, ty, A]}
+- {grapheme: "ッテュ", phonemes: [ty, ty, U]}
+- {grapheme: "ッテョ", phonemes: [ty, ty, O]}
+- {grapheme: "ッディ", phonemes: [d, d, I]}
+- {grapheme: "ッデェ", phonemes: [dy, dy, E]}
+- {grapheme: "ッディェ", phonemes: [dy, dy, E]}
+- {grapheme: "ッデャ", phonemes: [dy, dy, A]}
+- {grapheme: "ッデュ", phonemes: [dy, dy, U]}
+- {grapheme: "ッデョ", phonemes: [dy, dy, O]}
+- {grapheme: "ッフィェ", phonemes: [fx, fx, y, E]}
+- {grapheme: "ッフャ", phonemes: [fx, fx, y, A]}
+- {grapheme: "ッフュ", phonemes: [fx, fx, y, U]}
+- {grapheme: "ッフョ", phonemes: [fx, fx, y, O]}
+- {grapheme: "ッスィェ", phonemes: [s, s, y, E]}
+- {grapheme: "ッスャ", phonemes: [s, s, y, A]}
+- {grapheme: "ッスュ", phonemes: [s, s, y, U]}
+- {grapheme: "ッスョ", phonemes: [s, s, y, O]}
+- {grapheme: "ッズィェ", phonemes: [z, z, y, E]}
+- {grapheme: "ッズャ", phonemes: [z, z, y, A]}
+- {grapheme: "ッズュ", phonemes: [z, z, y, U]}
+- {grapheme: "ッズョ", phonemes: [z, z, y, O]}
+- {grapheme: "ッヅィェ", phonemes: [z, z, y, E]}
+- {grapheme: "ッヅャ", phonemes: [z, z, y, A]}
+- {grapheme: "ッヅュ", phonemes: [z, z, y, U]}
+- {grapheme: "ッヅョ", phonemes: [z, z, y, O]}
+- {grapheme: "ッヴィェ", phonemes: [v, v, y, E]}
+- {grapheme: "ッヴャ", phonemes: [v, v, y, A]}
+- {grapheme: "ッヴュ", phonemes: [v, v, y, U]}
+- {grapheme: "ッヴョ", phonemes: [v, v, y, O]}
+
+# Romaji
+- {grapheme: "a", phonemes: [a]}
+- {grapheme: "i", phonemes: [i]}
+- {grapheme: "u", phonemes: [u]}
+- {grapheme: "e", phonemes: [e]}
+- {grapheme: "o", phonemes: [o]}
+- {grapheme: "ka", phonemes: [kx, a]}
+- {grapheme: "ki", phonemes: [kx, i]}
+- {grapheme: "ku", phonemes: [kx, u]}
+- {grapheme: "ke", phonemes: [kx, e]}
+- {grapheme: "ko", phonemes: [kx, o]}
+- {grapheme: "sa", phonemes: [s, a]}
+- {grapheme: "shi", phonemes: [sh, i]}
+- {grapheme: "su", phonemes: [s, u]}
+- {grapheme: "se", phonemes: [s, e]}
+- {grapheme: "so", phonemes: [s, o]}
+- {grapheme: "ta", phonemes: [tx, a]}
+- {grapheme: "chi", phonemes: [ch, i]}
+- {grapheme: "tsu", phonemes: [ts, u]}
+- {grapheme: "te", phonemes: [tx, e]}
+- {grapheme: "to", phonemes: [tx, o]}
+- {grapheme: "na", phonemes: [n, a]}
+- {grapheme: "ni", phonemes: [n, i]}
+- {grapheme: "nu", phonemes: [n, u]}
+- {grapheme: "ne", phonemes: [n, e]}
+- {grapheme: "no", phonemes: [n, o]}
+- {grapheme: "ha", phonemes: [h, a]}
+- {grapheme: "hi", phonemes: [h, i]}
+- {grapheme: "fu", phonemes: [fx, u]}
+- {grapheme: "hu", phonemes: [fx, u]}
+- {grapheme: "he", phonemes: [h, e]}
+- {grapheme: "ho", phonemes: [h, o]}
+- {grapheme: "ma", phonemes: [m, a]}
+- {grapheme: "mi", phonemes: [m, i]}
+- {grapheme: "mu", phonemes: [m, u]}
+- {grapheme: "me", phonemes: [m, e]}
+- {grapheme: "mo", phonemes: [m, o]}
+- {grapheme: "ya", phonemes: [y, a]}
+- {grapheme: "yu", phonemes: [y, u]}
+- {grapheme: "yo", phonemes: [y, o]}
+- {grapheme: "ra", phonemes: [rx, a]}
+- {grapheme: "ri", phonemes: [rx, i]}
+- {grapheme: "ru", phonemes: [rx, u]}
+- {grapheme: "re", phonemes: [rx, e]}
+- {grapheme: "ro", phonemes: [rx, o]}
+- {grapheme: "wa", phonemes: [w, a]}
+- {grapheme: "n", phonemes: [N]}
+- {grapheme: "ga", phonemes: [g, a]}
+- {grapheme: "gi", phonemes: [g, i]}
+- {grapheme: "gu", phonemes: [g, u]}
+- {grapheme: "ge", phonemes: [g, e]}
+- {grapheme: "go", phonemes: [g, o]}
+- {grapheme: "za", phonemes: [z, a]}
+- {grapheme: "ji", phonemes: [j, i]}
+- {grapheme: "zu", phonemes: [z, u]}
+- {grapheme: "ze", phonemes: [z, e]}
+- {grapheme: "zo", phonemes: [z, o]}
+- {grapheme: "da", phonemes: [d, a]}
+- {grapheme: "de", phonemes: [d, e]}
+- {grapheme: "do", phonemes: [d, o]}
+- {grapheme: "ba", phonemes: [b, a]}
+- {grapheme: "bi", phonemes: [b, i]}
+- {grapheme: "bu", phonemes: [b, u]}
+- {grapheme: "be", phonemes: [b, e]}
+- {grapheme: "bo", phonemes: [b, o]}
+- {grapheme: "pa", phonemes: [px, a]}
+- {grapheme: "pi", phonemes: [px, i]}
+- {grapheme: "pu", phonemes: [px, u]}
+- {grapheme: "pe", phonemes: [px, e]}
+- {grapheme: "po", phonemes: [px, o]}
+- {grapheme: "vu", phonemes: [v, u]}
+- {grapheme: "nga", phonemes: [ng, a]}
+- {grapheme: "ngi", phonemes: [ng, i]}
+- {grapheme: "ngu", phonemes: [ng, u]}
+- {grapheme: "nge", phonemes: [ng, e]}
+- {grapheme: "ngo", phonemes: [ng, o]}
+- {grapheme: "kya", phonemes: [ky, a]}
+- {grapheme: "kyu", phonemes: [ky, u]}
+- {grapheme: "kyo", phonemes: [ky, o]}
+- {grapheme: "sha", phonemes: [sh, a]}
+- {grapheme: "shu", phonemes: [sh, u]}
+- {grapheme: "sho", phonemes: [sh, o]}
+- {grapheme: "cha", phonemes: [ch, a]}
+- {grapheme: "chu", phonemes: [ch, u]}
+- {grapheme: "cho", phonemes: [ch, o]}
+- {grapheme: "nya", phonemes: [ny, a]}
+- {grapheme: "nyu", phonemes: [ny, u]}
+- {grapheme: "nyo", phonemes: [ny, o]}
+- {grapheme: "hya", phonemes: [hy, a]}
+- {grapheme: "hyu", phonemes: [hy, u]}
+- {grapheme: "hyo", phonemes: [hy, o]}
+- {grapheme: "mya", phonemes: [my, a]}
+- {grapheme: "myu", phonemes: [my, u]}
+- {grapheme: "myo", phonemes: [my, o]}
+- {grapheme: "rya", phonemes: [ry, a]}
+- {grapheme: "ryu", phonemes: [ry, u]}
+- {grapheme: "ryo", phonemes: [ry, o]}
+- {grapheme: "gya", phonemes: [gy, a]}
+- {grapheme: "gyu", phonemes: [gy, u]}
+- {grapheme: "gyo", phonemes: [gy, o]}
+- {grapheme: "ja", phonemes: [j, a]}
+- {grapheme: "ju", phonemes: [j, u]}
+- {grapheme: "jo", phonemes: [j, o]}
+- {grapheme: "bya", phonemes: [by, a]}
+- {grapheme: "byu", phonemes: [by, u]}
+- {grapheme: "byo", phonemes: [by, o]}
+- {grapheme: "pya", phonemes: [py, a]}
+- {grapheme: "pyu", phonemes: [py, u]}
+- {grapheme: "pyo", phonemes: [py, o]}
+- {grapheme: "ye", phonemes: [y, e]}
+- {grapheme: "kye", phonemes: [ky, e]}
+- {grapheme: "she", phonemes: [sh, e]}
+- {grapheme: "che", phonemes: [ch, e]}
+- {grapheme: "nye", phonemes: [ny, e]}
+- {grapheme: "hye", phonemes: [hy, e]}
+- {grapheme: "mye", phonemes: [my, e]}
+- {grapheme: "rye", phonemes: [ry, e]}
+- {grapheme: "gye", phonemes: [gy, e]}
+- {grapheme: "je", phonemes: [j, e]}
+- {grapheme: "bye", phonemes: [by, e]}
+- {grapheme: "pye", phonemes: [py, e]}
+- {grapheme: "wi", phonemes: [w, i]}
+- {grapheme: "we", phonemes: [w, e]}
+- {grapheme: "wo", phonemes: [w, o]}
+- {grapheme: "kwa", phonemes: [kx, w, a]}
+- {grapheme: "kwi", phonemes: [kx, w, i]}
+- {grapheme: "kwe", phonemes: [kx, w, e]}
+- {grapheme: "kwo", phonemes: [kx, w, o]}
+- {grapheme: "swa", phonemes: [s, w, a]}
+- {grapheme: "si", phonemes: [s, i]}
+- {grapheme: "swi", phonemes: [s, w, i]}
+- {grapheme: "swe", phonemes: [s, w, e]}
+- {grapheme: "swo", phonemes: [s, w, o]}
+- {grapheme: "tsa", phonemes: [ts, a]}
+- {grapheme: "tsi", phonemes: [ts, i]}
+- {grapheme: "tse", phonemes: [ts, e]}
+- {grapheme: "tso", phonemes: [ts, o]}
+- {grapheme: "nwa", phonemes: [n, w, a]}
+- {grapheme: "nwi", phonemes: [n, w, i]}
+- {grapheme: "nwe", phonemes: [n, w, e]}
+- {grapheme: "nwo", phonemes: [n, w, o]}
+- {grapheme: "fa", phonemes: [fx, a]}
+- {grapheme: "fi", phonemes: [fx, i]}
+- {grapheme: "fe", phonemes: [fx, e]}
+- {grapheme: "fo", phonemes: [fx, o]}
+- {grapheme: "mwa", phonemes: [m, w, a]}
+- {grapheme: "mwi", phonemes: [m, w, i]}
+- {grapheme: "mwe", phonemes: [m, w, e]}
+- {grapheme: "mwo", phonemes: [m, w, o]}
+- {grapheme: "rwa", phonemes: [rx, w, a]}
+- {grapheme: "rwi", phonemes: [rx, w, i]}
+- {grapheme: "rwe", phonemes: [rx, w, e]}
+- {grapheme: "rwo", phonemes: [rx, w, o]}
+- {grapheme: "gwa", phonemes: [g, w, a]}
+- {grapheme: "gwi", phonemes: [g, w, i]}
+- {grapheme: "gwe", phonemes: [g, w, e]}
+- {grapheme: "gwo", phonemes: [g, w, o]}
+- {grapheme: "zwa", phonemes: [z, w, a]}
+- {grapheme: "zi", phonemes: [z, i]}
+- {grapheme: "zwi", phonemes: [z, w, i]}
+- {grapheme: "zwe", phonemes: [z, w, e]}
+- {grapheme: "zwo", phonemes: [z, w, o]}
+- {grapheme: "bwa", phonemes: [b, w, a]}
+- {grapheme: "bwi", phonemes: [b, w, i]}
+- {grapheme: "bwe", phonemes: [b, w, e]}
+- {grapheme: "bwo", phonemes: [b, w, o]}
+- {grapheme: "pwa", phonemes: [px, w, a]}
+- {grapheme: "pwi", phonemes: [px, w, i]}
+- {grapheme: "pwe", phonemes: [px, w, e]}
+- {grapheme: "pwo", phonemes: [px, w, o]}
+- {grapheme: "va", phonemes: [v, a]}
+- {grapheme: "vi", phonemes: [v, i]}
+- {grapheme: "ve", phonemes: [v, e]}
+- {grapheme: "vo", phonemes: [v, o]}
+- {grapheme: "twa", phonemes: [tx, w, a]}
+- {grapheme: "twi", phonemes: [tx, w, i]}
+- {grapheme: "tu", phonemes: [tx, u]}
+- {grapheme: "twe", phonemes: [tx, w, e]}
+- {grapheme: "two", phonemes: [tx, w, o]}
+- {grapheme: "dwa", phonemes: [d, w, a]}
+- {grapheme: "dwi", phonemes: [d, w, a]}
+- {grapheme: "du", phonemes: [d, u]}
+- {grapheme: "dwe", phonemes: [d, w, e]}
+- {grapheme: "dwo", phonemes: [d, w, o]}
+- {grapheme: "ti", phonemes: [tx, i]}
+- {grapheme: "tye", phonemes: [ty, e]}
+- {grapheme: "tya", phonemes: [ty, a]}
+- {grapheme: "tyu", phonemes: [ty, u]}
+- {grapheme: "tyo", phonemes: [ty, o]}
+- {grapheme: "di", phonemes: [d, i]}
+- {grapheme: "dye", phonemes: [dy, e]}
+- {grapheme: "dya", phonemes: [dy, a]}
+- {grapheme: "dyu", phonemes: [dy, u]}
+- {grapheme: "dyo", phonemes: [dy, o]}
+- {grapheme: "fye", phonemes: [fx, y, e]}
+- {grapheme: "fya", phonemes: [fx, y, a]}
+- {grapheme: "fyu", phonemes: [fx, y, u]}
+- {grapheme: "fyo", phonemes: [fx, y, o]}
+- {grapheme: "sye", phonemes: [s, y, e]}
+- {grapheme: "sya", phonemes: [s, y, a]}
+- {grapheme: "syu", phonemes: [s, y, u]}
+- {grapheme: "syo", phonemes: [s, y, o]}
+- {grapheme: "zye", phonemes: [z, y, e]}
+- {grapheme: "zya", phonemes: [z, y, a]}
+- {grapheme: "zyu", phonemes: [z, y, u]}
+- {grapheme: "zyo", phonemes: [z, y, o]}
+- {grapheme: "vye", phonemes: [v, y, e]}
+- {grapheme: "vya", phonemes: [v, y, a]}
+- {grapheme: "vyu", phonemes: [v, y, u]}
+- {grapheme: "vyo", phonemes: [v, y, o]}
+- {grapheme: "ngye", phonemes: [ng, y, e]}
+- {grapheme: "ngya", phonemes: [ng, y, a]}
+- {grapheme: "ngyu", phonemes: [ng, y, u]}
+- {grapheme: "ngyo", phonemes: [ng, y, o]}
+- {grapheme: "ngwa", phonemes: [ng, w, a]}
+- {grapheme: "ngwi", phonemes: [ng, w, i]}
+- {grapheme: "ngwe", phonemes: [ng, w, e]}
+- {grapheme: "ngwo", phonemes: [ng, w, o]}
+- {grapheme: "la", phonemes: [l, a]}
+- {grapheme: "li", phonemes: [l, i]}
+- {grapheme: "lu", phonemes: [l, u]}
+- {grapheme: "le", phonemes: [l, e]}
+- {grapheme: "lo", phonemes: [l, o]}
+- {grapheme: "lye", phonemes: [l, y, e]}
+- {grapheme: "lya", phonemes: [l, y, a]}
+- {grapheme: "lyu", phonemes: [l, y, u]}
+- {grapheme: "lyo", phonemes: [l, y, o]}
+- {grapheme: "lwa", phonemes: [l, w, a]}
+- {grapheme: "lwi", phonemes: [l, w, i]}
+- {grapheme: "lwe", phonemes: [l, w, e]}
+- {grapheme: "lwo", phonemes: [l, w, o]}
+# Romaji gemination
+- {grapheme: "kka", phonemes: [kx, kx, a]}
+- {grapheme: "kki", phonemes: [kx, kx, i]}
+- {grapheme: "kku", phonemes: [kx, kx, u]}
+- {grapheme: "kke", phonemes: [kx, kx, e]}
+- {grapheme: "kko", phonemes: [kx, kx, o]}
+- {grapheme: "ssa", phonemes: [s, s, a]}
+- {grapheme: "sshi", phonemes: [sh, sh, i]}
+- {grapheme: "ssu", phonemes: [s, s, u]}
+- {grapheme: "sse", phonemes: [s, s, e]}
+- {grapheme: "sso", phonemes: [s, s, o]}
+- {grapheme: "tta", phonemes: [tx, tx, a]}
+- {grapheme: "tchi", phonemes: [ty, ch, i]}
+- {grapheme: "ttsu", phonemes: [t, ts, u]}
+- {grapheme: "tte", phonemes: [tx, tx, e]}
+- {grapheme: "tto", phonemes: [tx, tx, o]}
+- {grapheme: "hha", phonemes: [h, h, a]}
+- {grapheme: "hhi", phonemes: [h, h, i]}
+- {grapheme: "ffu", phonemes: [fx, fx, u]}
+- {grapheme: "hhu", phonemes: [fx, fx, u]}
+- {grapheme: "hhe", phonemes: [h, h, e]}
+- {grapheme: "hho", phonemes: [h, h, o]}
+- {grapheme: "gga", phonemes: [g, g, a]}
+- {grapheme: "ggi", phonemes: [g, g, i]}
+- {grapheme: "ggu", phonemes: [g, g, u]}
+- {grapheme: "gge", phonemes: [g, g, e]}
+- {grapheme: "ggo", phonemes: [g, g, o]}
+- {grapheme: "zza", phonemes: [z, z, a]}
+- {grapheme: "dji", phonemes: [dy, j, i]}
+- {grapheme: "zzu", phonemes: [z, z, u]}
+- {grapheme: "zze", phonemes: [z, z, e]}
+- {grapheme: "zzo", phonemes: [z, z, o]}
+- {grapheme: "dda", phonemes: [d, d, a]}
+- {grapheme: "dde", phonemes: [d, d, e]}
+- {grapheme: "ddo", phonemes: [d, d, o]}
+- {grapheme: "bba", phonemes: [b, b, a]}
+- {grapheme: "bbi", phonemes: [b, b, i]}
+- {grapheme: "bbu", phonemes: [b, b, u]}
+- {grapheme: "bbe", phonemes: [b, b, e]}
+- {grapheme: "bbo", phonemes: [b, b, o]}
+- {grapheme: "ppa", phonemes: [px, px, a]}
+- {grapheme: "ppi", phonemes: [px, px, i]}
+- {grapheme: "ppu", phonemes: [px, px, u]}
+- {grapheme: "ppe", phonemes: [px, px, e]}
+- {grapheme: "ppo", phonemes: [px, px, o]}
+- {grapheme: "vvu", phonemes: [v, v, u]}
+- {grapheme: "kkya", phonemes: [ky, ky, a]}
+- {grapheme: "kkyu", phonemes: [ky, ky, u]}
+- {grapheme: "kkyo", phonemes: [ky, ky, o]}
+- {grapheme: "ssha", phonemes: [sh, sh, a]}
+- {grapheme: "sshu", phonemes: [sh, sh, u]}
+- {grapheme: "ssho", phonemes: [sh, sh, o]}
+- {grapheme: "tcha", phonemes: [ty, ch, a]}
+- {grapheme: "tchu", phonemes: [ty, ch, u]}
+- {grapheme: "tcho", phonemes: [ty, ch, o]}
+- {grapheme: "hhya", phonemes: [hy, hy, a]}
+- {grapheme: "hhyu", phonemes: [hy, hy, u]}
+- {grapheme: "hhyo", phonemes: [hy, hy, o]}
+- {grapheme: "ggya", phonemes: [gy, gy, a]}
+- {grapheme: "ggyu", phonemes: [gy, gy, u]}
+- {grapheme: "ggyo", phonemes: [gy, gy, o]}
+- {grapheme: "dja", phonemes: [dy, j, a]}
+- {grapheme: "dju", phonemes: [dy, j, u]}
+- {grapheme: "djo", phonemes: [dy, j, o]}
+- {grapheme: "bbya", phonemes: [by, by, a]}
+- {grapheme: "bbyu", phonemes: [by, by, u]}
+- {grapheme: "bbyo", phonemes: [by, by, o]}
+- {grapheme: "ppya", phonemes: [py, py, a]}
+- {grapheme: "ppyu", phonemes: [py, py, u]}
+- {grapheme: "ppyo", phonemes: [py, py, o]}
+- {grapheme: "kye", phonemes: [ky, ky, e]}
+- {grapheme: "sshe", phonemes: [sh, sh, e]}
+- {grapheme: "tche", phonemes: [ty, ch, e]}
+- {grapheme: "hhye", phonemes: [hy, hy, e]}
+- {grapheme: "gye", phonemes: [gy, gy, e]}
+- {grapheme: "dje", phonemes: [dy, j, e]}
+- {grapheme: "bbye", phonemes: [by, by, e]}
+- {grapheme: "ppye", phonemes: [py, py, e]}
+- {grapheme: "kkwa", phonemes: [kx, kx, w, a]}
+- {grapheme: "kkwi", phonemes: [kx, kx, w, i]}
+- {grapheme: "kkwe", phonemes: [kx, kx, w, e]}
+- {grapheme: "kkwo", phonemes: [kx, kx, w, o]}
+- {grapheme: "sswa", phonemes: [s, s, w, a]}
+- {grapheme: "ssi", phonemes: [s, s, i]}
+- {grapheme: "sswi", phonemes: [s, s, w, i]}
+- {grapheme: "sswe", phonemes: [s, s, w, e]}
+- {grapheme: "sswo", phonemes: [s, s, w, o]}
+- {grapheme: "ttsa", phonemes: [t, ts, a]}
+- {grapheme: "ttsi", phonemes: [t, ts, i]}
+- {grapheme: "ttse", phonemes: [t, ts, e]}
+- {grapheme: "ttso", phonemes: [t, ts, o]}
+- {grapheme: "ffa", phonemes: [fx, fx, a]}
+- {grapheme: "ffi", phonemes: [fx, fx, i]}
+- {grapheme: "ffe", phonemes: [fx, fx, e]}
+- {grapheme: "ffo", phonemes: [fx, fx, o]}
+- {grapheme: "ggwa", phonemes: [g, g, w, a]}
+- {grapheme: "ggwi", phonemes: [g, g, w, i]}
+- {grapheme: "ggwe", phonemes: [g, g, w, e]}
+- {grapheme: "ggwo", phonemes: [g, g, w, o]}
+- {grapheme: "zzwa", phonemes: [z, z, w, a]}
+- {grapheme: "zzi", phonemes: [z, z, i]}
+- {grapheme: "zzwi", phonemes: [z, z, w, i]}
+- {grapheme: "zzwe", phonemes: [z, z, w, e]}
+- {grapheme: "zzwo", phonemes: [z, z, w, o]}
+- {grapheme: "bbwa", phonemes: [b, b, w, a]}
+- {grapheme: "bbwi", phonemes: [b, b, w, i]}
+- {grapheme: "bbwe", phonemes: [b, b, w, e]}
+- {grapheme: "bbwo", phonemes: [b, b, w, o]}
+- {grapheme: "ppwa", phonemes: [px, px, w, a]}
+- {grapheme: "ppwi", phonemes: [px, px, w, i]}
+- {grapheme: "ppwe", phonemes: [px, px, w, e]}
+- {grapheme: "ppwo", phonemes: [px, px, w, o]}
+- {grapheme: "vva", phonemes: [v, v, a]}
+- {grapheme: "vvi", phonemes: [v, v, i]}
+- {grapheme: "vve", phonemes: [v, v, e]}
+- {grapheme: "vvo", phonemes: [v, v, o]}
+- {grapheme: "ttwa", phonemes: [tx, tx, w, a]}
+- {grapheme: "ttwi", phonemes: [tx, tx, w, i]}
+- {grapheme: "ttu", phonemes: [tx, tx, u]}
+- {grapheme: "ttwe", phonemes: [tx, tx, w, e]}
+- {grapheme: "ttwo", phonemes: [tx, tx, w, o]}
+- {grapheme: "ddwa", phonemes: [d, d, w, a]}
+- {grapheme: "ddwi", phonemes: [d, d, w, a]}
+- {grapheme: "ddu", phonemes: [d, d, u]}
+- {grapheme: "ddwe", phonemes: [d, d, w, e]}
+- {grapheme: "ddwo", phonemes: [d, d, w, o]}
+- {grapheme: "tti", phonemes: [tx, tx, i]}
+- {grapheme: "ttye", phonemes: [ty, ty, e]}
+- {grapheme: "ttya", phonemes: [ty, ty, a]}
+- {grapheme: "ttyu", phonemes: [ty, ty, u]}
+- {grapheme: "ttyo", phonemes: [ty, ty, o]}
+- {grapheme: "ddi", phonemes: [d, d, i]}
+- {grapheme: "ddye", phonemes: [dy, dy, e]}
+- {grapheme: "ddya", phonemes: [dy, dy, a]}
+- {grapheme: "ddyu", phonemes: [dy, dy, u]}
+- {grapheme: "ddyo", phonemes: [dy, dy, o]}
+- {grapheme: "ffye", phonemes: [fx, fx, y, e]}
+- {grapheme: "ffya", phonemes: [fx, fx, y, a]}
+- {grapheme: "ffyu", phonemes: [fx, fx, y, u]}
+- {grapheme: "ffyo", phonemes: [fx, fx, y, o]}
+- {grapheme: "ssye", phonemes: [s, s, y, e]}
+- {grapheme: "ssya", phonemes: [s, s, y, a]}
+- {grapheme: "ssyu", phonemes: [s, s, y, u]}
+- {grapheme: "ssyo", phonemes: [s, s, y, o]}
+- {grapheme: "zzye", phonemes: [z, z, y, e]}
+- {grapheme: "zzya", phonemes: [z, z, y, a]}
+- {grapheme: "zzyu", phonemes: [z, z, y, u]}
+- {grapheme: "zzyo", phonemes: [z, z, y, o]}
+- {grapheme: "vvye", phonemes: [v, v, y, e]}
+- {grapheme: "vvya", phonemes: [v, v, y, a]}
+- {grapheme: "vvyu", phonemes: [v, v, y, u]}
+- {grapheme: "vvyo", phonemes: [v, v, y, o]}
+
+# Romaji in capital letters for museion (devoiced vowels)
+- {grapheme: "A", phonemes: [A]}
+- {grapheme: "I", phonemes: [I]}
+- {grapheme: "U", phonemes: [U]}
+- {grapheme: "E", phonemes: [E]}
+- {grapheme: "O", phonemes: [O]}
+- {grapheme: "KA", phonemes: [kx, A]}
+- {grapheme: "KI", phonemes: [kx, I]}
+- {grapheme: "KU", phonemes: [kx, U]}
+- {grapheme: "KE", phonemes: [kx, E]}
+- {grapheme: "KO", phonemes: [kx, O]}
+- {grapheme: "SA", phonemes: [s, A]}
+- {grapheme: "SHI", phonemes: [sh, I]}
+- {grapheme: "SU", phonemes: [s, U]}
+- {grapheme: "SE", phonemes: [s, E]}
+- {grapheme: "SO", phonemes: [s, O]}
+- {grapheme: "TA", phonemes: [tx, A]}
+- {grapheme: "CHI", phonemes: [ch, I]}
+- {grapheme: "TSU", phonemes: [ts, U]}
+- {grapheme: "TE", phonemes: [tx, E]}
+- {grapheme: "TO", phonemes: [tx, O]}
+- {grapheme: "NA", phonemes: [n, A]}
+- {grapheme: "NI", phonemes: [n, I]}
+- {grapheme: "NU", phonemes: [n, U]}
+- {grapheme: "NE", phonemes: [n, E]}
+- {grapheme: "NO", phonemes: [n, O]}
+- {grapheme: "HA", phonemes: [h, A]}
+- {grapheme: "HI", phonemes: [h, I]}
+- {grapheme: "FU", phonemes: [fx, U]}
+- {grapheme: "HU", phonemes: [fx, U]}
+- {grapheme: "HE", phonemes: [h, E]}
+- {grapheme: "HO", phonemes: [h, O]}
+- {grapheme: "MA", phonemes: [m, A]}
+- {grapheme: "MI", phonemes: [m, I]}
+- {grapheme: "MU", phonemes: [m, U]}
+- {grapheme: "ME", phonemes: [m, E]}
+- {grapheme: "MO", phonemes: [m, O]}
+- {grapheme: "YA", phonemes: [y, A]}
+- {grapheme: "YU", phonemes: [y, U]}
+- {grapheme: "YO", phonemes: [y, O]}
+- {grapheme: "RA", phonemes: [rx, A]}
+- {grapheme: "RI", phonemes: [rx, I]}
+- {grapheme: "RU", phonemes: [rx, U]}
+- {grapheme: "RE", phonemes: [rx, E]}
+- {grapheme: "RO", phonemes: [rx, O]}
+- {grapheme: "WA", phonemes: [w, A]}
+- {grapheme: "N", phonemes: [N]}
+- {grapheme: "GA", phonemes: [g, A]}
+- {grapheme: "GI", phonemes: [g, I]}
+- {grapheme: "GU", phonemes: [g, U]}
+- {grapheme: "GE", phonemes: [g, E]}
+- {grapheme: "GO", phonemes: [g, O]}
+- {grapheme: "ZA", phonemes: [z, A]}
+- {grapheme: "JI", phonemes: [j, I]}
+- {grapheme: "ZU", phonemes: [z, U]}
+- {grapheme: "ZE", phonemes: [z, E]}
+- {grapheme: "ZO", phonemes: [z, O]}
+- {grapheme: "DA", phonemes: [d, A]}
+- {grapheme: "DE", phonemes: [d, E]}
+- {grapheme: "DO", phonemes: [d, O]}
+- {grapheme: "BA", phonemes: [b, A]}
+- {grapheme: "BI", phonemes: [b, I]}
+- {grapheme: "BU", phonemes: [b, U]}
+- {grapheme: "BE", phonemes: [b, E]}
+- {grapheme: "BO", phonemes: [b, O]}
+- {grapheme: "PA", phonemes: [px, A]}
+- {grapheme: "PI", phonemes: [px, I]}
+- {grapheme: "PU", phonemes: [px, U]}
+- {grapheme: "PE", phonemes: [px, E]}
+- {grapheme: "PO", phonemes: [px, O]}
+- {grapheme: "VU", phonemes: [v, U]}
+- {grapheme: "NGA", phonemes: [ng, A]}
+- {grapheme: "NGI", phonemes: [ng, I]}
+- {grapheme: "NGU", phonemes: [ng, U]}
+- {grapheme: "NGE", phonemes: [ng, E]}
+- {grapheme: "NGO", phonemes: [ng, O]}
+- {grapheme: "KYA", phonemes: [ky, A]}
+- {grapheme: "KYU", phonemes: [ky, U]}
+- {grapheme: "KYO", phonemes: [ky, O]}
+- {grapheme: "SHA", phonemes: [sh, A]}
+- {grapheme: "SHU", phonemes: [sh, U]}
+- {grapheme: "SHO", phonemes: [sh, O]}
+- {grapheme: "CHA", phonemes: [ch, A]}
+- {grapheme: "CHU", phonemes: [ch, U]}
+- {grapheme: "CHO", phonemes: [ch, O]}
+- {grapheme: "NYA", phonemes: [ny, A]}
+- {grapheme: "NYU", phonemes: [ny, U]}
+- {grapheme: "NYO", phonemes: [ny, O]}
+- {grapheme: "HYA", phonemes: [hy, A]}
+- {grapheme: "HYU", phonemes: [hy, U]}
+- {grapheme: "HYO", phonemes: [hy, O]}
+- {grapheme: "MYA", phonemes: [my, A]}
+- {grapheme: "MYU", phonemes: [my, U]}
+- {grapheme: "MYO", phonemes: [my, O]}
+- {grapheme: "RYA", phonemes: [ry, A]}
+- {grapheme: "RYU", phonemes: [ry, U]}
+- {grapheme: "RYO", phonemes: [ry, O]}
+- {grapheme: "GYA", phonemes: [gy, A]}
+- {grapheme: "GYU", phonemes: [gy, U]}
+- {grapheme: "GYO", phonemes: [gy, O]}
+- {grapheme: "JA", phonemes: [j, A]}
+- {grapheme: "JU", phonemes: [j, U]}
+- {grapheme: "JO", phonemes: [j, O]}
+- {grapheme: "BYA", phonemes: [by, A]}
+- {grapheme: "BYU", phonemes: [by, U]}
+- {grapheme: "BYO", phonemes: [by, O]}
+- {grapheme: "PYA", phonemes: [py, A]}
+- {grapheme: "PYU", phonemes: [py, U]}
+- {grapheme: "PYO", phonemes: [py, O]}
+- {grapheme: "YE", phonemes: [y, E]}
+- {grapheme: "KYE", phonemes: [ky, E]}
+- {grapheme: "SHE", phonemes: [sh, E]}
+- {grapheme: "CHE", phonemes: [ch, E]}
+- {grapheme: "NYE", phonemes: [ny, E]}
+- {grapheme: "HYE", phonemes: [hy, E]}
+- {grapheme: "MYE", phonemes: [my, E]}
+- {grapheme: "RYE", phonemes: [ry, E]}
+- {grapheme: "GYE", phonemes: [gy, E]}
+- {grapheme: "JE", phonemes: [j, E]}
+- {grapheme: "BYE", phonemes: [by, E]}
+- {grapheme: "PYE", phonemes: [py, E]}
+- {grapheme: "WI", phonemes: [w, I]}
+- {grapheme: "WE", phonemes: [w, E]}
+- {grapheme: "WO", phonemes: [w, O]}
+- {grapheme: "KWA", phonemes: [kx, w, A]}
+- {grapheme: "KWI", phonemes: [kx, w, I]}
+- {grapheme: "KWE", phonemes: [kx, w, E]}
+- {grapheme: "KWO", phonemes: [kx, w, O]}
+- {grapheme: "SWA", phonemes: [s, w, A]}
+- {grapheme: "SI", phonemes: [s, I]}
+- {grapheme: "SWI", phonemes: [s, w, I]}
+- {grapheme: "SWE", phonemes: [s, w, E]}
+- {grapheme: "SWO", phonemes: [s, w, O]}
+- {grapheme: "TSA", phonemes: [ts, A]}
+- {grapheme: "TSI", phonemes: [ts, I]}
+- {grapheme: "TSE", phonemes: [ts, E]}
+- {grapheme: "TSO", phonemes: [ts, O]}
+- {grapheme: "NWA", phonemes: [n, w, A]}
+- {grapheme: "NWI", phonemes: [n, w, I]}
+- {grapheme: "NWE", phonemes: [n, w, E]}
+- {grapheme: "NWO", phonemes: [n, w, O]}
+- {grapheme: "FA", phonemes: [fx, A]}
+- {grapheme: "FI", phonemes: [fx, I]}
+- {grapheme: "FE", phonemes: [fx, E]}
+- {grapheme: "FO", phonemes: [fx, O]}
+- {grapheme: "MWA", phonemes: [m, w, A]}
+- {grapheme: "MWI", phonemes: [m, w, I]}
+- {grapheme: "MWE", phonemes: [m, w, E]}
+- {grapheme: "MWO", phonemes: [m, w, O]}
+- {grapheme: "RWA", phonemes: [rx, w, A]}
+- {grapheme: "RWI", phonemes: [rx, w, I]}
+- {grapheme: "RWE", phonemes: [rx, w, E]}
+- {grapheme: "RWO", phonemes: [rx, w, O]}
+- {grapheme: "GWA", phonemes: [g, w, A]}
+- {grapheme: "GWI", phonemes: [g, w, I]}
+- {grapheme: "GWE", phonemes: [g, w, E]}
+- {grapheme: "GWO", phonemes: [g, w, O]}
+- {grapheme: "ZWA", phonemes: [z, w, A]}
+- {grapheme: "ZI", phonemes: [z, I]}
+- {grapheme: "ZWI", phonemes: [z, w, I]}
+- {grapheme: "ZWE", phonemes: [z, w, E]}
+- {grapheme: "ZWO", phonemes: [z, w, O]}
+- {grapheme: "BWA", phonemes: [b, w, A]}
+- {grapheme: "BWI", phonemes: [b, w, I]}
+- {grapheme: "BWE", phonemes: [b, w, E]}
+- {grapheme: "BWO", phonemes: [b, w, O]}
+- {grapheme: "PWA", phonemes: [px, w, A]}
+- {grapheme: "PWI", phonemes: [px, w, I]}
+- {grapheme: "PWE", phonemes: [px, w, E]}
+- {grapheme: "PWO", phonemes: [px, w, O]}
+- {grapheme: "VA", phonemes: [v, A]}
+- {grapheme: "VI", phonemes: [v, I]}
+- {grapheme: "VE", phonemes: [v, E]}
+- {grapheme: "VO", phonemes: [v, O]}
+- {grapheme: "TWA", phonemes: [tx, w, A]}
+- {grapheme: "TWI", phonemes: [tx, w, I]}
+- {grapheme: "TU", phonemes: [tx, U]}
+- {grapheme: "TWE", phonemes: [tx, w, E]}
+- {grapheme: "TWO", phonemes: [tx, w, O]}
+- {grapheme: "DWA", phonemes: [d, w, A]}
+- {grapheme: "DWI", phonemes: [d, w, A]}
+- {grapheme: "DU", phonemes: [d, U]}
+- {grapheme: "DWE", phonemes: [d, w, E]}
+- {grapheme: "DWO", phonemes: [d, w, O]}
+- {grapheme: "TI", phonemes: [tx, I]}
+- {grapheme: "TYE", phonemes: [ty, E]}
+- {grapheme: "TYA", phonemes: [ty, A]}
+- {grapheme: "TYU", phonemes: [ty, U]}
+- {grapheme: "TYO", phonemes: [ty, O]}
+- {grapheme: "DI", phonemes: [d, I]}
+- {grapheme: "DYE", phonemes: [dy, E]}
+- {grapheme: "DYA", phonemes: [dy, A]}
+- {grapheme: "DYU", phonemes: [dy, U]}
+- {grapheme: "DYO", phonemes: [dy, O]}
+- {grapheme: "FYE", phonemes: [fx, y, E]}
+- {grapheme: "FYA", phonemes: [fx, y, A]}
+- {grapheme: "FYU", phonemes: [fx, y, U]}
+- {grapheme: "FYO", phonemes: [fx, y, O]}
+- {grapheme: "SYE", phonemes: [s, y, E]}
+- {grapheme: "SYA", phonemes: [s, y, A]}
+- {grapheme: "SYU", phonemes: [s, y, U]}
+- {grapheme: "SYO", phonemes: [s, y, O]}
+- {grapheme: "ZYE", phonemes: [z, y, E]}
+- {grapheme: "ZYA", phonemes: [z, y, A]}
+- {grapheme: "ZYU", phonemes: [z, y, U]}
+- {grapheme: "ZYO", phonemes: [z, y, O]}
+- {grapheme: "VYE", phonemes: [v, y, E]}
+- {grapheme: "VYA", phonemes: [v, y, A]}
+- {grapheme: "VYU", phonemes: [v, y, U]}
+- {grapheme: "VYO", phonemes: [v, y, O]}
+- {grapheme: "NGYE", phonemes: [ng, y, E]}
+- {grapheme: "NGYA", phonemes: [ng, y, A]}
+- {grapheme: "NGYU", phonemes: [ng, y, U]}
+- {grapheme: "NGYO", phonemes: [ng, y, O]}
+- {grapheme: "NGWA", phonemes: [ng, w, A]}
+- {grapheme: "NGWI", phonemes: [ng, w, I]}
+- {grapheme: "NGWE", phonemes: [ng, w, E]}
+- {grapheme: "NGWO", phonemes: [ng, w, O]}
+- {grapheme: "LA", phonemes: [l, A]}
+- {grapheme: "LI", phonemes: [l, I]}
+- {grapheme: "LU", phonemes: [l, U]}
+- {grapheme: "LE", phonemes: [l, E]}
+- {grapheme: "LO", phonemes: [l, O]}
+- {grapheme: "LYE", phonemes: [l, y, E]}
+- {grapheme: "LYA", phonemes: [l, y, A]}
+- {grapheme: "LYU", phonemes: [l, y, U]}
+- {grapheme: "LYO", phonemes: [l, y, O]}
+- {grapheme: "LWA", phonemes: [l, w, A]}
+- {grapheme: "LWI", phonemes: [l, w, I]}
+- {grapheme: "LWE", phonemes: [l, w, E]}
+- {grapheme: "LWO", phonemes: [l, w, O]}
+# Romaji museion gemination
+- {grapheme: "KKA", phonemes: [kx, kx, A]}
+- {grapheme: "KKI", phonemes: [kx, kx, I]}
+- {grapheme: "KKU", phonemes: [kx, kx, U]}
+- {grapheme: "KKE", phonemes: [kx, kx, E]}
+- {grapheme: "KKO", phonemes: [kx, kx, O]}
+- {grapheme: "SSA", phonemes: [s, s, A]}
+- {grapheme: "SSHI", phonemes: [sh, sh, I]}
+- {grapheme: "SSU", phonemes: [s, s, U]}
+- {grapheme: "SSE", phonemes: [s, s, E]}
+- {grapheme: "SSO", phonemes: [s, s, O]}
+- {grapheme: "TTA", phonemes: [tx, tx, A]}
+- {grapheme: "TCHI", phonemes: [ty, ch, I]}
+- {grapheme: "TTSU", phonemes: [t, ts, U]}
+- {grapheme: "TTE", phonemes: [tx, tx, E]}
+- {grapheme: "TTO", phonemes: [tx, tx, O]}
+- {grapheme: "HHA", phonemes: [h, h, A]}
+- {grapheme: "HHI", phonemes: [h, h, I]}
+- {grapheme: "FFU", phonemes: [fx, fx, U]}
+- {grapheme: "HHU", phonemes: [fx, fx, U]}
+- {grapheme: "HHE", phonemes: [h, h, E]}
+- {grapheme: "HHO", phonemes: [h, h, O]}
+- {grapheme: "GGA", phonemes: [g, g, A]}
+- {grapheme: "GGI", phonemes: [g, g, I]}
+- {grapheme: "GGU", phonemes: [g, g, U]}
+- {grapheme: "GGE", phonemes: [g, g, E]}
+- {grapheme: "GGO", phonemes: [g, g, O]}
+- {grapheme: "ZZA", phonemes: [z, z, A]}
+- {grapheme: "DJI", phonemes: [dy, j, I]}
+- {grapheme: "ZZU", phonemes: [z, z, U]}
+- {grapheme: "ZZE", phonemes: [z, z, E]}
+- {grapheme: "ZZO", phonemes: [z, z, O]}
+- {grapheme: "DDA", phonemes: [d, d, A]}
+- {grapheme: "DDE", phonemes: [d, d, E]}
+- {grapheme: "DDO", phonemes: [d, d, O]}
+- {grapheme: "BBA", phonemes: [b, b, A]}
+- {grapheme: "BBI", phonemes: [b, b, I]}
+- {grapheme: "BBU", phonemes: [b, b, U]}
+- {grapheme: "BBE", phonemes: [b, b, E]}
+- {grapheme: "BBO", phonemes: [b, b, O]}
+- {grapheme: "PPA", phonemes: [px, px, A]}
+- {grapheme: "PPI", phonemes: [px, px, I]}
+- {grapheme: "PPU", phonemes: [px, px, U]}
+- {grapheme: "PPE", phonemes: [px, px, E]}
+- {grapheme: "PPO", phonemes: [px, px, O]}
+- {grapheme: "VVU", phonemes: [v, v, U]}
+- {grapheme: "KKYA", phonemes: [ky, ky, A]}
+- {grapheme: "KKYU", phonemes: [ky, ky, U]}
+- {grapheme: "KKYO", phonemes: [ky, ky, O]}
+- {grapheme: "SSHA", phonemes: [sh, sh, A]}
+- {grapheme: "SSHU", phonemes: [sh, sh, U]}
+- {grapheme: "SSHO", phonemes: [sh, sh, O]}
+- {grapheme: "TCHA", phonemes: [ty, ch, A]}
+- {grapheme: "TCHU", phonemes: [ty, ch, U]}
+- {grapheme: "TCHO", phonemes: [ty, ch, O]}
+- {grapheme: "HHYA", phonemes: [hy, hy, A]}
+- {grapheme: "HHYU", phonemes: [hy, hy, U]}
+- {grapheme: "HHYO", phonemes: [hy, hy, O]}
+- {grapheme: "GGYA", phonemes: [gy, gy, A]}
+- {grapheme: "GGYU", phonemes: [gy, gy, U]}
+- {grapheme: "GGYO", phonemes: [gy, gy, O]}
+- {grapheme: "DJA", phonemes: [dy, j, A]}
+- {grapheme: "DJU", phonemes: [dy, j, U]}
+- {grapheme: "DJO", phonemes: [dy, j, O]}
+- {grapheme: "BBYA", phonemes: [by, by, A]}
+- {grapheme: "BBYU", phonemes: [by, by, U]}
+- {grapheme: "BBYO", phonemes: [by, by, O]}
+- {grapheme: "PPYA", phonemes: [py, py, A]}
+- {grapheme: "PPYU", phonemes: [py, py, U]}
+- {grapheme: "PPYO", phonemes: [py, py, O]}
+- {grapheme: "KYE", phonemes: [ky, ky, E]}
+- {grapheme: "SSHE", phonemes: [sh, sh, E]}
+- {grapheme: "TCHE", phonemes: [ty, ch, E]}
+- {grapheme: "HHYE", phonemes: [hy, hy, E]}
+- {grapheme: "GYE", phonemes: [gy, gy, E]}
+- {grapheme: "DJE", phonemes: [dy, j, E]}
+- {grapheme: "BBYE", phonemes: [by, by, E]}
+- {grapheme: "PPYE", phonemes: [py, py, E]}
+- {grapheme: "KKWA", phonemes: [kx, kx, w, A]}
+- {grapheme: "KKWI", phonemes: [kx, kx, w, I]}
+- {grapheme: "KKWE", phonemes: [kx, kx, w, E]}
+- {grapheme: "KKWO", phonemes: [kx, kx, w, O]}
+- {grapheme: "SSWA", phonemes: [s, s, w, A]}
+- {grapheme: "SSI", phonemes: [s, s, I]}
+- {grapheme: "SSWI", phonemes: [s, s, w, I]}
+- {grapheme: "SSWE", phonemes: [s, s, w, E]}
+- {grapheme: "SSWO", phonemes: [s, s, w, O]}
+- {grapheme: "TTSA", phonemes: [t, ts, A]}
+- {grapheme: "TTSI", phonemes: [t, ts, I]}
+- {grapheme: "TTSE", phonemes: [t, ts, E]}
+- {grapheme: "TTSO", phonemes: [t, ts, O]}
+- {grapheme: "FFA", phonemes: [fx, fx, A]}
+- {grapheme: "FFI", phonemes: [fx, fx, I]}
+- {grapheme: "FFE", phonemes: [fx, fx, E]}
+- {grapheme: "FFO", phonemes: [fx, fx, O]}
+- {grapheme: "GGWA", phonemes: [g, g, w, A]}
+- {grapheme: "GGWI", phonemes: [g, g, w, I]}
+- {grapheme: "GGWE", phonemes: [g, g, w, E]}
+- {grapheme: "GGWO", phonemes: [g, g, w, O]}
+- {grapheme: "ZZWA", phonemes: [z, z, w, A]}
+- {grapheme: "ZZI", phonemes: [z, z, I]}
+- {grapheme: "ZZWI", phonemes: [z, z, w, I]}
+- {grapheme: "ZZWE", phonemes: [z, z, w, E]}
+- {grapheme: "ZZWO", phonemes: [z, z, w, O]}
+- {grapheme: "BBWA", phonemes: [b, b, w, A]}
+- {grapheme: "BBWI", phonemes: [b, b, w, I]}
+- {grapheme: "BBWE", phonemes: [b, b, w, E]}
+- {grapheme: "BBWO", phonemes: [b, b, w, O]}
+- {grapheme: "PPWA", phonemes: [px, px, w, A]}
+- {grapheme: "PPWI", phonemes: [px, px, w, I]}
+- {grapheme: "PPWE", phonemes: [px, px, w, E]}
+- {grapheme: "PPWO", phonemes: [px, px, w, O]}
+- {grapheme: "VVA", phonemes: [v, v, A]}
+- {grapheme: "VVI", phonemes: [v, v, I]}
+- {grapheme: "VVE", phonemes: [v, v, E]}
+- {grapheme: "VVO", phonemes: [v, v, O]}
+- {grapheme: "TTWA", phonemes: [tx, tx, w, A]}
+- {grapheme: "TTWI", phonemes: [tx, tx, w, I]}
+- {grapheme: "TTU", phonemes: [tx, tx, U]}
+- {grapheme: "TTWE", phonemes: [tx, tx, w, E]}
+- {grapheme: "TTWO", phonemes: [tx, tx, w, O]}
+- {grapheme: "DDWA", phonemes: [d, d, w, A]}
+- {grapheme: "DDWI", phonemes: [d, d, w, A]}
+- {grapheme: "DDU", phonemes: [d, d, U]}
+- {grapheme: "DDWE", phonemes: [d, d, w, E]}
+- {grapheme: "DDWO", phonemes: [d, d, w, O]}
+- {grapheme: "TTI", phonemes: [tx, tx, I]}
+- {grapheme: "TTYE", phonemes: [ty, ty, E]}
+- {grapheme: "TTYA", phonemes: [ty, ty, A]}
+- {grapheme: "TTYU", phonemes: [ty, ty, U]}
+- {grapheme: "TTYO", phonemes: [ty, ty, O]}
+- {grapheme: "DDI", phonemes: [d, d, I]}
+- {grapheme: "DDYE", phonemes: [dy, dy, E]}
+- {grapheme: "DDYA", phonemes: [dy, dy, A]}
+- {grapheme: "DDYU", phonemes: [dy, dy, U]}
+- {grapheme: "DDYO", phonemes: [dy, dy, O]}
+- {grapheme: "FFYE", phonemes: [fx, fx, y, E]}
+- {grapheme: "FFYA", phonemes: [fx, fx, y, A]}
+- {grapheme: "FFYU", phonemes: [fx, fx, y, U]}
+- {grapheme: "FFYO", phonemes: [fx, fx, y, O]}
+- {grapheme: "SSYE", phonemes: [s, s, y, E]}
+- {grapheme: "SSYA", phonemes: [s, s, y, A]}
+- {grapheme: "SSYU", phonemes: [s, s, y, U]}
+- {grapheme: "SSYO", phonemes: [s, s, y, O]}
+- {grapheme: "ZZYE", phonemes: [z, z, y, E]}
+- {grapheme: "ZZYA", phonemes: [z, z, y, A]}
+- {grapheme: "ZZYU", phonemes: [z, z, y, U]}
+- {grapheme: "ZZYO", phonemes: [z, z, y, O]}
+- {grapheme: "VVYE", phonemes: [v, v, y, E]}
+- {grapheme: "VVYA", phonemes: [v, v, y, A]}
+- {grapheme: "VVYU", phonemes: [v, v, y, U]}
+- {grapheme: "VVYO", phonemes: [v, v, y, O]}
