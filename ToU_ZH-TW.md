@@ -1,4 +1,4 @@
-[English](ToU_EN.md) | [简体中文（机器翻译）](ToU_ZH-CN.md)| **簡體中文（機器翻譯）**| [日本語（機械翻訳）]((ToU_JA.md))| [한국어(기계 번역)](ToU_KO.md) | [Tiếng Việt (dịch máy)](ToU_VI.md) | [Español (traducción automática)](ToU_ES.md) | [Deutsch](ToU_DE.md) | [Français (traduction automatique)](ToU_FR.md)
+[English](ToU_EN.md) | [简体中文（机器翻译）](ToU_ZH-CN.md)| **簡體中文（機器翻譯）**| [日本語（機械翻訳）](ToU_JA.md)| [한국어(기계 번역)](ToU_KO.md) | [Tiếng Việt (dịch máy)](ToU_VI.md) | [Español (traducción automática)](ToU_ES.md) | [Deutsch](ToU_DE.md) | [Français (traduction automatique)](ToU_FR.md)
 # 使用條款（簡體中文；機器翻譯）
 - 使用前請參閱指定文件夾中包含的不同許可證文件。
 - 使用我的任何聲源時請註明來源為我（Lotte V）。
