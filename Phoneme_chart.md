@@ -6,12 +6,12 @@ Keep in mind that only officially supported languages are listed.
 
 Optional languages are between (brackets).
 
-| <h3>Phoneme</h3>        | <h3>IPA</h3>                                                                                                      | <h3>Used in language(s)</h3>                                                                       |
+| <h2>Phoneme</h3>        | <h2>IPA</h2>                                                                                                      | <h2>Used in language(s)</h2>                                                                       |
 | ----------------------- | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-|                         | <h4>Universal DS phonemes</h4>                                                                                    |                                                                                                    |
+|                         | <h3>Universal DS phonemes</h3>                                                                                    |                                                                                                    |
 | AP                      | N/A <small>(breath)</small>                                                                                       | All                                                                                                |
 | SP                      | N/A <small>(pause)</small>                                                                                        | All                                                                                                |
-|                         | <h4>Vowels</h4>                                                                                                   |                                                                                                    |
+|                         | <h3>Vowels</h3>                                                                                                   |                                                                                                    |
 | a                       | a                                                                                                                 | Japanese, German, French, Spanish, Korean, Mandarin Chinese, Latin                                 |
 | A                       | ḁ <small>(devoiced /a/)</small>                                                                                   | Japanese                                                                                           |
 | aa                      | ɑ ~ ɒ                                                                                                             | English                                                                                            |
@@ -57,7 +57,7 @@ Optional languages are between (brackets).
 | uw                      | u: ~ ʉ:                                                                                                           | English                                                                                            |
 | v1                      | y                                                                                                                 | German, French, Mandarin Chinese, (Latin)                                                          |
 | yy                      | ʏ                                                                                                                 | German                                                                                             |
-|                         | <h4>Consonants</h4>                                                                                               |                                                                                                    |
+|                         | <h3>Consonants</h3>                                                                                               |                                                                                                    |
 | b                       | b                                                                                                                 | English, Japanese, German, French, Spanish, Latin                                                  |
 | b1                      | p ~ b                                                                                                             | Korean, Mandarin Chinese                                                                           |
 | bb                      | p͈                                                                                                                 | Korean                                                                                             |
@@ -148,7 +148,7 @@ Optional languages are between (brackets).
 | z1                      | ts ~ dz                                                                                                           | Mandarin Chinese                                                                                   |
 | zh                      | ʒ                                                                                                                 | English, French, (German, Spanish)                                                                 |
 | zh1                     | tʂ ~ dʐ                                                                                                           | Mandarin Chinese                                                                                   |
-| <h5>Total phoneme count</h5> | <h5>137</h5> <small>(incl. universal phonemes)</small>                                                                 |                                                                                                    |
+| <h4>Total phoneme count</h4> | <h4>137</h4> <small>(incl. universal phonemes)</small>                                                                 |                                                                                                    |
 
 
 
