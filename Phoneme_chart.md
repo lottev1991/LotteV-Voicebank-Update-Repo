@@ -148,7 +148,7 @@ Optional languages are between (brackets).
 | z1                      | ts ~ dz                                                                                                           | Mandarin Chinese                                                                                   |
 | zh                      | ʒ                                                                                                                 | English, French, (German, Spanish)                                                                 |
 | zh1                     | tʂ ~ dʐ                                                                                                           | Mandarin Chinese                                                                                   |
-| <h4>Total phoneme count</h4> | <h4>137</h4> <small>(incl. universal phonemes)</small>                                                                 |                                                                                                    |
+| <h3>Total phoneme count</h3> | <h3>137</h3> <small>(incl. universal phonemes)</small>                                                                 |                                                                                                    |
 
 
 
